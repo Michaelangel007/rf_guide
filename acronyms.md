@@ -36,4 +36,5 @@ There are numerous words and acronyms in the PoE community that has a specific m
 
 ---
 
+Prev: [1. Introduction](introduction.md)
 Next: [3. Campaign Walkthrough](campaign.md)
