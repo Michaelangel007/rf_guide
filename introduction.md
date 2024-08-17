@@ -33,5 +33,5 @@ The 3 step plan:
 
 ---
 
-Prev: [0. Table of Contents](readme.md)
+Prev: [0. Table of Contents](index.html)
 Next: [2. Acronyms & Terminology](acronyms.md)
