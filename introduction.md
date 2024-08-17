@@ -30,3 +30,8 @@ The 3 step plan to profit is:
 
 * Movement speed and Damage may be too slow and low respectively for those that prefer a Zoom Zoom play style
 * End-game damage falls off hard and needs considerable investment
+
+---
+
+Prev: [0. Table of Contents](readme.md)
+Next: [2. Acronyms & Terminology](acronyms.md)
