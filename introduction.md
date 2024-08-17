@@ -10,7 +10,7 @@ Tired of _Path of Exile_ giving you Carpal Tunnel?  Want a relaxed "one button" 
 
 ## Overview
 
-The 3 step plan to profit is:
+The 3 step plan:
 
 1. Have a crazy high amount of Life Regeneration and cast **Righteous Fire** (RF) when we enter a zone,
 2. Walk into mobs and watch them (slowly) die,
