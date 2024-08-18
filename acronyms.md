@@ -1,14 +1,18 @@
 # 2. Acronyms & Terminology
 
-There are numerous words and acronyms in the PoE community that has a specific meaning. This communication short-hand is to avoid being repetitive and verbose. A short list is:
+Every game has its own "lingo".  PoE is no exception.  There are numerous words and acronyms that PoE community that have specific meaning(s).  This communication short-hand is to avoid being repetitive and verbose.  A short list is:
 
+* **4os:** 4 open Socket.
+* **4-socket:** An item with 4 sockets. (Use Jeweller's Orb to re-roll the number of sockets.)
+* **4-link:** An item with 4 sockets all linked. (Use Orb of Fusing to re-link sockets.)
 * **Ascendancy:** Skill specialization for your class out of 3 possible sub-classes.
 * **BBB:** An item with three blue sockets.
 * **RBBB:** An item with four sockets: one red and three blue -- perfect for RF during the campaign.
 * **Campaign:** The "tutorial". First half of the game.
 * **Class:** Synonym for type. May be Character (7 types), Ascendancy (19 types), or Item class (numerous).
 * **Clear a Zone:** Kill 100% of mobs in a zone. Use the chat command: `/remaining` to see the mob count remaining.
-* **DoT:** Damage over time.
+* **DoT:** Damage over time. (Higher is better for the attacker.)
+* **DPS:** Damage per second. (Higher is better for the attacker.)
 * **EHP:** Effective Health Points. How much damage you can take and still live after damage mitigation is applied. (Armor, Spellblock, etc. provide a bigger buffer for damage mitigation.)
 * **ES:** Energy Shield; a type of defense.  Not needed since RF will "nullify" it.
 * **Face Tank:** Having enough life and defenses that you can stand next to a mob soaking up damage while damaging them.
