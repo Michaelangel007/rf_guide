@@ -178,4 +178,7 @@ Zone Objectives:
   * The Rhoas will charge you **stunning you,**
   * This can cascade into you being "stun locked" while more rhoas charge you
 
+---
 
+Prev: [2. Acronyms & Terminology](acronyms.md)
+Next: [3.2 Act 2](act2.md)
