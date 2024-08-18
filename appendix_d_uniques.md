@@ -1,0 +1,47 @@
+# Appendix D. Uniques for Leveling
+
+If you can afford it the following uniques will be _extremely_ handy for leveling RF during the campaign and maps.
+
+|Level|Type    |Base                 |Item                                                                         |Notes                |Cost|
+|-----|--------|---------------------|-----------------------------------------------------------------------------|---------------------|----|
+|    5|Shield  |Rotted Round Shield  |[Wheel of the Stormsail](https://www.poewiki.net/wiki/Wheel_of_the_Stormsail)|HUGE lightning res   | ?c |
+|    7|Shield  |Plank Kite Shield    |[Springleaf](https://www.poewiki.net/wiki/Springleaf)                        |HUGE life regen      | ?c |
+|   16|Ring    |Ruby Ring            |[Emberwake](https://www.poewiki.net/wiki/Emberwake)                          |HUGE Fire Damage     | ?c |
+|   18|Body    |Scholar's Robe       |[Cloak of Flame](https://www.poewiki.net/wiki/Cloak_of_Flame)                | **ASAP**            | [10c](https://www.pathofexile.com/trade/search/Settlers/XyE7SP) |
+|   20|Ring    |Two-Stone Ring       |[Berek's Pass](https://www.poewiki.net/wiki/Berek%27s_Pass)                  | **ASAP**            | [1c](https://www.pathofexile.com/trade/search/Settlers/gP75ahQ) |
+|   50|Belt    |Leather Belt         |[Immortal Flesh](https://www.poewiki.net/wiki/Immortal_Flesh)                | **ASAP**  #2        | [1c](https://www.pathofexile.com/trade/search/Settlers/Q34Wmfw) |
+|   62|Shield  |Champion Kite Shield |[Aegis Aurora](https://www.poewiki.net/wiki/Aegis_Aurora)                    | **ASAP**            | [99c](https://www.pathofexile.com/trade/search/Settlers/24ndck) | 
+|   65|Shield  |Mosaic Kite Shield   |[Rise of the Phoenix](https://www.poewiki.net/wiki/Rise_of_the_Phoenix)      | **ASAP**  #3        | [1c](https://www.pathofexile.com/trade/search/Settlers/6z8ksG)|
+|   75|Weapon  |Vaal Sceptre         |[Doryani's Catalyst](https://www.poewiki.net/wiki/Doryani%27s_Catalyst)      | **ASAP**  #1        | [2c](https://www.pathofexile.com/trade/search/Settlers/n3223Vs0) | 
+
+**Notes:**
+
+ * ASAP # means buy that item as soon as possible in that priority.
+ * Level is the _minimum character level_ required to equip the item.
+ * Your first league character probably won't be able to afford these until Act 9, Blood Aquaduct, so save your _Chaos Orbs_ if they drop early.
+ 
+Other uniques worth considering are:
+
+|Level|Type    |Base                 |Item                                                                         |Notes                           |Cost|
+|-----|--------|---------------------|-----------------------------------------------------------------------------|--------------------------------|----|
+|   16|Amulet  |Citrine Amulet       |[Daresso's Salute](https://www.poewiki.net/wiki/Daresso%27s_Salute)          |                                | ?c |
+|   17|Shield  |Cedar Tower Shield   |[Trolltimber Spire](https://www.poewiki.net/wiki/Trolltimber_Spire)          |Armor + Life Regen              | ?c |
+|   20|Ring    |Topaz Ring           |[Kikazaru](https://www.poewiki.net/wiki/Kikazaru)                            | +10 attributes                 | ?c |
+|   24|Ring    |                     |[Le Heup Of All](https://www.poewiki.net/wiki/Le_Heup_of_All)                |                                | ?c |
+|   27|Boots   |Clasped Boots        |[Sundance](https://www.poewiki.net/wiki/Sundance)                            |                                | ?c |
+|   28|Helm    |Festival Mask        |[Leer Cast](https://www.poewiki.net/wiki/Leer_Cast)                          |                                | ?c |
+|   41|Weapon  |Crystal Sceptre      |[Nycta's Lantern](https://www.poewiki.net/wiki/Nycta%27s_Lantern)            |                                | ?c |
+|   44|Talsiman|Rotfeather Talisman  |[Natural Hierarchy](https://www.poewiki.net/wiki/Natural_Hierarchy)          |                                | ?c |
+|   50|Shield  |Laminated Kite Shield|[Victario's Charity](https://www.poewiki.net/wiki/Victario%27s_Charity)      |Armour + Energy Shield          | ?c |
+|   52|Boots   |Legion Boots         |[Gang's Momentum](https://www.poewiki.net/wiki/Gang%27s_Momentum)            |Life Regen but little RF dmg    | ?c |
+|   59|Shield  |Branded Kite Shield  |[Saffell's Frame](https://www.poewiki.net/wiki/Saffell%27s_Frame)            | **AVOID** Cannot Block Attacks | ?c |
+|   63|Helm    |Prophet Crown        |[The Broken Crown](https://www.poewiki.net/wiki/The_Broken_Crown)            |                                | ?c |
+|   64|Boots   |Crusader Boots       |[Death's Door](https://www.poewiki.net/wiki/Death%27s_Door)                  |                                | ?c |
+|   65|Chest   |Gladiator Plate      |[The Brass Dome](https://www.poewiki.net/wiki/The_Brass_Dome)                |                                | ?c |
+|   68|Amulet  |Onyx Amulet          |[Leaderhip's Price](https://www.poewiki.net/wiki/Leadership%27s_Price)       |                                | ?c |
+|   74|Amulet  |Marble Amulet        |[Bloodgrip](https://www.poewiki.net/wiki/Bloodgrip)                          |                                | ?c |
+
+---
+
+Prev: [Appendix C. Campaign Crafting Recipes](appendix_c_crafting.md)
+Next: [Appendix E. Maxium Fire Resist](appendix_e_fire_resist.md)
