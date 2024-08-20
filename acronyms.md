@@ -1,6 +1,6 @@
 # 2. Acronyms & Terminology
 
-Every game has its own "lingo".  PoE is no exception.  There are numerous words and acronyms that PoE community that have specific meaning(s).  This communication short-hand is to avoid being repetitive and verbose.  A short list is:
+Every game has its own "lingo".  PoE is no exception.  There are numerous words and acronyms that PoE community use that have specific meaning(s).  This communication short-hand is to avoid being repetitive and verbose.  A short list are:
 
 -#-
 * **4os:** 4 open Socket.
@@ -20,6 +20,7 @@ Every game has its own "lingo".  PoE is no exception.  There are numerous words 
 * **Clear a Zone:** Kill 100% of mobs in a zone. Use the chat command: `/remaining` to see the mob count remaining.
 
 -D-
+* **DEX:** Character attribute: Dexterity.
 * **DoT:** Damage over time. (Higher is better for the attacker.)
 * **DPS:** Damage per second. (Higher is better for the attacker.)
 
@@ -34,9 +35,12 @@ Every game has its own "lingo".  PoE is no exception.  There are numerous words 
 * **Gem:** An item that grants us skills, modifies a skill, when equipped and used. Two types: Skill Gems and Support Gems.
 
 -H-
-* **Hard-cap:** The maximum possible a value can be. i.e. Resistances have a hard cap of 90%.
+* **Hard-cap:** The maximum possible a value can be. If we have "Fire Resistance 75% (200%)" then the 75% is the soft-cap value. Resistances have a hard cap of 90%. It takes skills, gems, or gear to increase the soft-cap to reach the hard-cap.
 * **HC:** Hard core. You only have one life. If you die you are moved to the softcore league where only lose XP on death. (You can only trade with players in the same league as you.)
 * **HP:** Health Points.  How much life you have before damage mitigation. When it reaches zero you die and may lose XP.
+
+-I-
+* **INT:** Character attribute Intelligence.
 
 -J-
 * **Jug:** Marauder Juggernaut ascendancy class
@@ -46,9 +50,10 @@ Every game has its own "lingo".  PoE is no exception.  There are numerous words 
 
 -L-
 * **Lab:** The Lord's Labrynth. A multi-stage dungeon filled with traps while you survive 3 encounters against an unique boss, Izaro. Your rewards include Ascendency Skill Points, Quality to a gem, XP to a gem, and other permanent buffs.
-* **Level:** May refer to Character, Floor, Gem, or Item level.
+* **Level:** May refer to a Character, Floor, Gem, or Item level.
 
 -M-
+* **Map:** An item that provides end-game content.
 * **Maps:** Second half of the game. Specifically, end-game content.
 
 -O-
@@ -68,12 +73,16 @@ Every game has its own "lingo".  PoE is no exception.  There are numerous words 
 * **Skill Tree:** Either the passive skill tree or atlas skill tree. A web of nodes
 * **Soft-cap:** The normal amount a value is capped at.  Can be increased to the hard-cap. e.g. Resistances have a soft-cap of 75%.
 * **SSF:** Solo self found league.  You are unable to group or trade with others.
+* **STR:** Character attribute: Strength.
 
 -U-
-* **Uncapped:** The raw amount a value is. If we have 200% fire resistance this is the uncapped value.
+* **Uncapped:** The raw amount a value is. If we have "Fire Resistance 75% (200%)" then the 200% is the uncapped value.
 
 -X-
 * **XP** = Experience Points. A minimum number of experience points is needed for each character and gem level.
+
+-Z-
+* **Zone:** An area of the game.
 
 ---
 
