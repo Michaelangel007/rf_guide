@@ -2,8 +2,9 @@
 
 If you can afford it the following uniques will be _extremely_ handy for leveling RF during the campaign and maps.
 
-|Level|Type    |Base                 |Item                                                                         |Notes                |Cost|
-|-----|--------|---------------------|-----------------------------------------------------------------------------|---------------------|---:|
+|Level|Type    |Base                 |Item                                                                         |Notes                |Cost                                                             |
+|-----|--------|---------------------|-----------------------------------------------------------------------------|---------------------|----------------------------------------------------------------:|
+|    5|Amulet  |Lapis Amulet         |[Tear of Purity](https://www.poewiki.net/wiki/Tear_of_Purity)                | Elemental Resists   | [1a](https://www.pathofexile.com/trade/search/Settlers/a0rMKfe) |
 |    5|Shield  |Rotted Round Shield  |[Wheel of the Stormsail](https://www.poewiki.net/wiki/Wheel_of_the_Stormsail)|HUGE lightning res   | [1a](https://www.pathofexile.com/trade/search/Settlers/loMmpuV) |
 |    7|Shield  |Plank Kite Shield    |[Springleaf](https://www.poewiki.net/wiki/Springleaf)                        |HUGE life regen      | [1c](https://www.pathofexile.com/trade/search/Settlers/KOoaMT5) |
 |   16|Ring    |Ruby Ring            |[Emberwake](https://www.poewiki.net/wiki/Emberwake)                          |HUGE Fire Damage     | [1c](https://www.pathofexile.com/trade/search/Settlers/v0JgzuE) |
