@@ -3,16 +3,21 @@
 If you can afford it the following uniques will be _extremely_ handy for leveling RF during the campaign and maps.
 
 |Level|Type    |Base                 |Item                                                                         |Notes                |Cost|
-|-----|--------|---------------------|-----------------------------------------------------------------------------|---------------------|----|
-|    5|Shield  |Rotted Round Shield  |[Wheel of the Stormsail](https://www.poewiki.net/wiki/Wheel_of_the_Stormsail)|HUGE lightning res   | ?c |
-|    7|Shield  |Plank Kite Shield    |[Springleaf](https://www.poewiki.net/wiki/Springleaf)                        |HUGE life regen      | ?c |
-|   16|Ring    |Ruby Ring            |[Emberwake](https://www.poewiki.net/wiki/Emberwake)                          |HUGE Fire Damage     | ?c |
+|-----|--------|---------------------|-----------------------------------------------------------------------------|---------------------|---:|
+|    5|Shield  |Rotted Round Shield  |[Wheel of the Stormsail](https://www.poewiki.net/wiki/Wheel_of_the_Stormsail)|HUGE lightning res   | [1a](https://www.pathofexile.com/trade/search/Settlers/loMmpuV) |
+|    7|Shield  |Plank Kite Shield    |[Springleaf](https://www.poewiki.net/wiki/Springleaf)                        |HUGE life regen      | [1c](https://www.pathofexile.com/trade/search/Settlers/KOoaMT5) |
+|   16|Ring    |Ruby Ring            |[Emberwake](https://www.poewiki.net/wiki/Emberwake)                          |HUGE Fire Damage     | [1c](https://www.pathofexile.com/trade/search/Settlers/v0JgzuE) |
 |   18|Body    |Scholar's Robe       |[Cloak of Flame](https://www.poewiki.net/wiki/Cloak_of_Flame)                | **ASAP**            | [10c](https://www.pathofexile.com/trade/search/Settlers/XyE7SP) |
 |   20|Ring    |Two-Stone Ring       |[Berek's Pass](https://www.poewiki.net/wiki/Berek%27s_Pass)                  | **ASAP**            | [1c](https://www.pathofexile.com/trade/search/Settlers/gP75ahQ) |
 |   50|Belt    |Leather Belt         |[Immortal Flesh](https://www.poewiki.net/wiki/Immortal_Flesh)                | **ASAP**  #2        | [1c](https://www.pathofexile.com/trade/search/Settlers/Q34Wmfw) |
 |   62|Shield  |Champion Kite Shield |[Aegis Aurora](https://www.poewiki.net/wiki/Aegis_Aurora)                    | **ASAP**            | [99c](https://www.pathofexile.com/trade/search/Settlers/24ndck) |
 |   65|Shield  |Mosaic Kite Shield   |[Rise of the Phoenix](https://www.poewiki.net/wiki/Rise_of_the_Phoenix)      | **ASAP**  #3        | [1c](https://www.pathofexile.com/trade/search/Settlers/6z8ksG)  |
 |   75|Weapon  |Vaal Sceptre         |[Doryani's Catalyst](https://www.poewiki.net/wiki/Doryani%27s_Catalyst)      | **ASAP**  #1        | [2c](https://www.pathofexile.com/trade/search/Settlers/n3223Vs0)|
+
+**Legend:**
+
+  * 1a = 1x Orb of Alchemy
+  * 1c = 1x Chaos Orb
 
 **Notes:**
 
@@ -23,11 +28,11 @@ If you can afford it the following uniques will be _extremely_ handy for levelin
 Other uniques worth considering are:
 
 |Level|Type    |Base                 |Item                                                                         |Notes                           |Cost|
-|-----|--------|---------------------|-----------------------------------------------------------------------------|--------------------------------|----|
+|-----|--------|---------------------|-----------------------------------------------------------------------------|--------------------------------|---:|
 |   16|Amulet  |Citrine Amulet       |[Daresso's Salute](https://www.poewiki.net/wiki/Daresso%27s_Salute)          |                                | ?c |
 |   17|Shield  |Cedar Tower Shield   |[Trolltimber Spire](https://www.poewiki.net/wiki/Trolltimber_Spire)          |Armor + Life Regen              | ?c |
 |   20|Ring    |Topaz Ring           |[Kikazaru](https://www.poewiki.net/wiki/Kikazaru)                            | +10 attributes                 | ?c |
-|   24|Ring    |                     |[Le Heup Of All](https://www.poewiki.net/wiki/Le_Heup_of_All)                |                                | ?c |
+|   24|Ring    |Iron Ring            |[Le Heup Of All](https://www.poewiki.net/wiki/Le_Heup_of_All)                |                                | ?c |
 |   27|Boots   |Clasped Boots        |[Sundance](https://www.poewiki.net/wiki/Sundance)                            |                                | ?c |
 |   28|Helm    |Festival Mask        |[Leer Cast](https://www.poewiki.net/wiki/Leer_Cast)                          |                                | ?c |
 |   41|Weapon  |Crystal Sceptre      |[Nycta's Lantern](https://www.poewiki.net/wiki/Nycta%27s_Lantern)            |                                | ?c |
