@@ -10,16 +10,16 @@ If you can afford it the following uniques will be _extremely_ handy for levelin
 |   18|Body    |Scholar's Robe       |[Cloak of Flame](https://www.poewiki.net/wiki/Cloak_of_Flame)                | **ASAP**            | [10c](https://www.pathofexile.com/trade/search/Settlers/XyE7SP) |
 |   20|Ring    |Two-Stone Ring       |[Berek's Pass](https://www.poewiki.net/wiki/Berek%27s_Pass)                  | **ASAP**            | [1c](https://www.pathofexile.com/trade/search/Settlers/gP75ahQ) |
 |   50|Belt    |Leather Belt         |[Immortal Flesh](https://www.poewiki.net/wiki/Immortal_Flesh)                | **ASAP**  #2        | [1c](https://www.pathofexile.com/trade/search/Settlers/Q34Wmfw) |
-|   62|Shield  |Champion Kite Shield |[Aegis Aurora](https://www.poewiki.net/wiki/Aegis_Aurora)                    | **ASAP**            | [99c](https://www.pathofexile.com/trade/search/Settlers/24ndck) | 
-|   65|Shield  |Mosaic Kite Shield   |[Rise of the Phoenix](https://www.poewiki.net/wiki/Rise_of_the_Phoenix)      | **ASAP**  #3        | [1c](https://www.pathofexile.com/trade/search/Settlers/6z8ksG)|
-|   75|Weapon  |Vaal Sceptre         |[Doryani's Catalyst](https://www.poewiki.net/wiki/Doryani%27s_Catalyst)      | **ASAP**  #1        | [2c](https://www.pathofexile.com/trade/search/Settlers/n3223Vs0) | 
+|   62|Shield  |Champion Kite Shield |[Aegis Aurora](https://www.poewiki.net/wiki/Aegis_Aurora)                    | **ASAP**            | [99c](https://www.pathofexile.com/trade/search/Settlers/24ndck) |
+|   65|Shield  |Mosaic Kite Shield   |[Rise of the Phoenix](https://www.poewiki.net/wiki/Rise_of_the_Phoenix)      | **ASAP**  #3        | [1c](https://www.pathofexile.com/trade/search/Settlers/6z8ksG)  |
+|   75|Weapon  |Vaal Sceptre         |[Doryani's Catalyst](https://www.poewiki.net/wiki/Doryani%27s_Catalyst)      | **ASAP**  #1        | [2c](https://www.pathofexile.com/trade/search/Settlers/n3223Vs0)|
 
 **Notes:**
 
- * ASAP # means buy that item as soon as possible in that priority.
- * Level is the _minimum character level_ required to equip the item.
- * Your first league character probably won't be able to afford these until Act 9, Blood Aquaduct, so save your _Chaos Orbs_ if they drop early.
- 
+  * ASAP # means buy that item as soon as possible in that priority.
+  * Level is the _minimum character level_ required to equip the item.
+  * Your first league character probably won't be able to afford these until Act 9, Blood Aquaduct, so save your _Chaos Orbs_ if they drop early.
+
 Other uniques worth considering are:
 
 |Level|Type    |Base                 |Item                                                                         |Notes                           |Cost|
