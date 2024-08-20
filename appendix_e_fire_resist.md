@@ -1,6 +1,6 @@
 # Appendix E. Maxium Fire Resist
 
-* Q. How do we increase our maximum Fire Resistance _without_ gear?
+Q. **How do we increase our maximum Fire Resistance _without_ gear?**
 * A. There are several nodes on the Passive Skill Tree:
 
 
@@ -17,7 +17,7 @@
 
 This raises our fire resistance from the soft-cap of 75% to 87%.
 
-Q. How do we increase our maximum Fire Resistance _with_ gems?
+Q. **How do we increase our maximum Fire Resistance _with_ gems?**
 
 * +3% **Purity of Fire** (skill gem at Level 20)
 * ======
@@ -31,18 +31,15 @@ Q. How do we increase our maximum Fire Resistance _with_ gear?
 * ======
 * Total +8% to maximum Fire Resistance
 
-Q. How do we increase all our Elemental Resistances to 90%?
+Q. **How do we increase all our Elemental Resistances to 90%?**
 
-1. Increase your maximum fire resistance to 90%,
-2. The Marauder's [Chieftain](https://www.pathofexile.com/ascendancy/classes/Chieftain) skill _Valako, Storm Embrace_ provides:
+  1. Increase your maximum fire resistance to 90%,
+  2. The Marauder's [Chieftain](https://www.pathofexile.com/ascendancy/classes/Chieftain) skill _Valako, Storm Embrace_ provides:
 
   * _Modifiers to Maximum Fire Resistance also apply to Maximum Cold and Lightning Resistances_
 
 ---
 
-<table>
-<tr>
-<td>Prev: [Appendix D. Uniques for Leveling](appendix_d_uniques.md)</td>
-<td>Next: [Appendix F. FAQ](appendix_f_faq.md)</td>
-</tr>
-</table>
+Prev: [Appendix D. Uniques for Leveling](appendix_d_uniques.md)</td>
+Home:  [Table of Contents](readme.md)
+Next: [Appendix F. FAQ](appendix_f_faq.md)</td>
