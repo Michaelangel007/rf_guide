@@ -14,14 +14,17 @@ Q. **How do we increase our maximum Fire Resistance _without_ gear?**
 * ======
 * Total +9% to maximum Fire Resistance
 
-
 This raises our fire resistance from the soft-cap of 75% to 87%.
+
+---
 
 Q. **How do we increase our maximum Fire Resistance _with_ gems?**
 
 * +3% **Purity of Fire** (skill gem at Level 20)
 * ======
 * Total +3% to maximum Fire Resistance
+
+---
 
 Q. How do we increase our maximum Fire Resistance _with_ gear?
 
@@ -30,6 +33,8 @@ Q. How do we increase our maximum Fire Resistance _with_ gear?
 *  +2% Elderitch Prefix (crafting mod)
 * ======
 * Total +8% to maximum Fire Resistance
+
+---
 
 Q. **How do we increase all our Elemental Resistances to 90%?**
 
@@ -42,6 +47,6 @@ Q. **How do we increase all our Elemental Resistances to 90%?**
 
 ---
 
-Prev: [Appendix D. Uniques for Leveling](appendix_d_uniques.md)</td>
+Prev: [Appendix D. Uniques for Leveling](appendix_d_uniques.md)
 Home: [Table of Contents](readme.md)
-Next: [Appendix F. FAQ](appendix_f_faq.md)</td>
+Next: [Appendix F. FAQ](appendix_f_faq.md)
