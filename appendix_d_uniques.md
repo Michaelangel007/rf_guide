@@ -34,7 +34,7 @@ Level is the _minimum character level_ required to equip the item.
 |   62|Shield  |Champion Kite Shield |[Aegis Aurora](https://www.poewiki.net/wiki/Aegis_Aurora)                    | **Bis**                     | [99c](https://www.pathofexile.com/trade/search/Settlers/24ndck) |
 |   75|Weapon  |Vaal Sceptre         |[Doryani's Catalyst](https://www.poewiki.net/wiki/Doryani%27s_Catalyst)      | **Bis**                     | [2c](https://www.pathofexile.com/trade/search/Settlers/n3223Vs0)|
 
-The unique **Brass Dome (Gladiator Plate)** is also a contender for armour.
+The unique **Brass Dome (Gladiator Plate)** is also a contender for armour. The _4% to all maximum elemental resistances_ is sufficient.  Only buy the 5% if you can afford it.
 
 Crafting Saintly Chainmail chest armour with _Essence of Loathing_ for Mana Reservattion.
 
