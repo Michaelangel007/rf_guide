@@ -8,9 +8,9 @@ If you can afford it the following uniques will be _extremely_ handy for levelin
 |    5|Shield  |Rotted Round Shield  |[Wheel of the Stormsail](https://www.poewiki.net/wiki/Wheel_of_the_Stormsail)|HUGE lightning res   | [1a](https://www.pathofexile.com/trade/search/Settlers/loMmpuV) |
 |    7|Shield  |Plank Kite Shield    |[Springleaf](https://www.poewiki.net/wiki/Springleaf)                        |HUGE life regen      | [1c](https://www.pathofexile.com/trade/search/Settlers/KOoaMT5) |
 |   16|Ring    |Ruby Ring            |[Emberwake](https://www.poewiki.net/wiki/Emberwake)                          |HUGE Fire Damage     | [1c](https://www.pathofexile.com/trade/search/Settlers/v0JgzuE) |
-|   18|Body    |Scholar's Robe       |[Cloak of Flame](https://www.poewiki.net/wiki/Cloak_of_Flame)                | **ASAP**            | [10c](https://www.pathofexile.com/trade/search/Settlers/XyE7SP) |
-|   20|Ring    |Two-Stone Ring       |[Berek's Pass](https://www.poewiki.net/wiki/Berek%27s_Pass)                  | **ASAP**            | [1c](https://www.pathofexile.com/trade/search/Settlers/gP75ahQ) |
-|   65|Shield  |Mosaic Kite Shield   |[Rise of the Phoenix](https://www.poewiki.net/wiki/Rise_of_the_Phoenix)      | **ASAP**  #3        | [1c](https://www.pathofexile.com/trade/search/Settlers/6z8ksG)  |
+|   18|Body    |Scholar's Robe       |[Cloak of Flame](https://www.poewiki.net/wiki/Cloak_of_Flame)                | **ASAP #1**         | [10c](https://www.pathofexile.com/trade/search/Settlers/XyE7SP) |
+|   20|Ring    |Two-Stone Ring       |[Berek's Pass](https://www.poewiki.net/wiki/Berek%27s_Pass)                  | **ASAP #2**         | [1c](https://www.pathofexile.com/trade/search/Settlers/gP75ahQ) |
+|   65|Shield  |Mosaic Kite Shield   |[Rise of the Phoenix](https://www.poewiki.net/wiki/Rise_of_the_Phoenix)      | **ASAP #3**         | [1c](https://www.pathofexile.com/trade/search/Settlers/6z8ksG)  |
 
 Level is the _minimum character level_ required to equip the item.
 
@@ -21,11 +21,11 @@ Level is the _minimum character level_ required to equip the item.
 
 **Best in Slot:**
 
-|Level|Type    |Base                 |Item                                                                         |Notes                |Cost                                                             |
-|----:|--------|---------------------|-----------------------------------------------------------------------------|---------------------|----------------------------------------------------------------:|
-|   50|Belt    |Leather Belt         |[Immortal Flesh](https://www.poewiki.net/wiki/Immortal_Flesh)                | **ASAP**  #2        | [1c](https://www.pathofexile.com/trade/search/Settlers/Q34Wmfw) |
-|   62|Shield  |Champion Kite Shield |[Aegis Aurora](https://www.poewiki.net/wiki/Aegis_Aurora)                    | **ASAP**            | [99c](https://www.pathofexile.com/trade/search/Settlers/24ndck) |
-|   75|Weapon  |Vaal Sceptre         |[Doryani's Catalyst](https://www.poewiki.net/wiki/Doryani%27s_Catalyst)      | **ASAP**  #1        | [2c](https://www.pathofexile.com/trade/search/Settlers/n3223Vs0)|
+|Level|Type    |Base                 |Item                                                                         |Notes             |Cost                                                             |
+|----:|--------|---------------------|-----------------------------------------------------------------------------|------------------|----------------------------------------------------------------:|
+|   50|Belt    |Leather Belt         |[Immortal Flesh](https://www.poewiki.net/wiki/Immortal_Flesh)                | **BiS**          | [1c](https://www.pathofexile.com/trade/search/Settlers/Q34Wmfw) |
+|   62|Shield  |Champion Kite Shield |[Aegis Aurora](https://www.poewiki.net/wiki/Aegis_Aurora)                    | **Bis**          | [99c](https://www.pathofexile.com/trade/search/Settlers/24ndck) |
+|   75|Weapon  |Vaal Sceptre         |[Doryani's Catalyst](https://www.poewiki.net/wiki/Doryani%27s_Catalyst)      | **Bis**         | [2c](https://www.pathofexile.com/trade/search/Settlers/n3223Vs0)|
 
 **Notes:**
 
