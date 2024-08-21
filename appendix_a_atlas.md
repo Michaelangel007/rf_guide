@@ -70,4 +70,5 @@ Sirgog has a good video:
 ---
 
 Prev: [4. Maps](maps.md)
+Home: [Table of Contents](readme.md)
 Next: [Appendix B. Build Guide](appendix_b_build_guide.md)

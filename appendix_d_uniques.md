@@ -50,4 +50,5 @@ Other uniques worth considering are:
 ---
 
 Prev: [Appendix C. Campaign Crafting Recipes](appendix_c_crafting.md)
+Home: [Table of Contents](readme.md)
 Next: [Appendix E. Maxium Fire Resist](appendix_e_fire_resist.md)

@@ -32,6 +32,7 @@ Here is a table of all the crafting recipes found in the campaign:
 |   8 | The Lunaris Temple Level 2  | Minions                            |  1  |
 |   9 | The Vastiri Desert          | Attack and Cast Speed              |  2  |
 |   9 | The Boiling Lake            | Spell Damage                       |  3  |
+|   9 | The Quarry                  | Physical Damage                    |  3  |
 | ATn |                             | | |
 | ATc |                             | | |
 | ATm |                             | | |
@@ -53,11 +54,13 @@ Other notable crafting recipe unlock locations:
 
 **Maps:**
 
-| Map | Crafting Recipe         |
-|:----|:------------------------|
-| Estuary | Mana Regen - Rank 2 |
+| Map         | Crafting Recipe               |
+|:------------|:------------------------------|
+| Estuary     | Mana Regen - Rank 2           |
+| Moon Temple | Global Energy Sheild - Rank 1 |
 
 ---
 
 Prev: [Appendix B. Build Guide](appendix_b_build_guide.md)
+Home: [Table of Contents](readme.md)
 Next: [Appendix D. Uniques for Leveling](appendix_d_uniques.md)

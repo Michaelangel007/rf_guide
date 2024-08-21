@@ -1,5 +1,10 @@
 # Appendix F. FAQ
 
+Q. **I'm finding PoE to be extremely complicated to learn.  Have any tips?**
+  * Raxxanterax has a great guide: [Path of Exile Step by Step Build Guide For Beginners](https://www.youtube.com/watch?v=30QY1HjcIt0])
+
+---
+
 Q. **How soon can I run RF on a Templar or Maruader?**
   * Around Level 20 on a Maruader, Level 22 on a Templar.
 
@@ -21,14 +26,34 @@ Q. **What do I need to do in order to sustain RF at charcter level 20?**
 ---
 
 Q. **What is "Uncapped Fire Resistance"?**
-  * Normally your fire resist is soft-capped at 75% (unless you raise your max Fire Resistance.)  Your uncapped fire resistance is the raw value greater than your capped fire ristance.
+  * Your uncapped fire resistance is the total Fire Resistance value minus your max Fire Resistance (which usually 75%).
 
-**NOTE:** PoE will only apply 75% fire resists (or your capped resistance) to spell damage reduction.
+Examples:
+
+  * If you have 92% Fire Resistance and 75% max Fire Resistance your uncapped is 92 - 75 = 17%.
+  * If you have 92% Fire Resistance and 90% max Fire Resistance your uncapped is 92 - 90 = 2%.
+
+There is no limit to uncapped resists as far as I am aware.
+
+**NOTE:** Normally your elementals resist is (soft) capped at 75% but you can raise your max Elemental Resitance up to the hard-cap of 90%.
+
+---
+
+Q. **Why would I want to be ABOVE my soft cap for resistances?**
+  * To provide a buffer against [curses](https://www.poewiki.net/wiki/Curse) and [exposure](https://www.poewiki.net/wiki/Exposure).
+
+See:
+
+ * [Resistance](https://www.poewiki.net/wiki/Resistance).
+ * [Purity of Fire](https://www.poewiki.net/wiki/Purity_of_Fire)
+ * [Purity of Elements](https://www.poewiki.net/wiki/Purity_of_Elements)
 
 ---
 
 Q. **How does the skill** _"Regenerate 1 Life per second for each 1% Uncapped Fire Resistance"_ **work?**
-  * Assuming your fire resist are soft-capped at 75% (the default) then FOR 1% you are over 75% you gain 1% Life/Second.  For example.  If you have 90% uncapped FR, then you would gain 90-75 = 15% Life Regen.
+  * Assuming your fire resist are soft-capped at 75% (the default) then FOR EACH 1% you are over 75% you gain 1% Life/Second.
+
+For example.  If you have 92% uncapped FR, then you would gain 92-75 = 17% Life Regen.
 
 ---
 
