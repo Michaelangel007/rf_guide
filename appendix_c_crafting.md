@@ -30,6 +30,7 @@ Here is a table of all the crafting recipes found in the campaign:
 |   8 | Doedre's Cesspool           | Elemental Resists                  |  3  |
 |   8 | The Solaris Temple Level 2  | Traps and Mines                    |  1  |
 |   8 | The Lunaris Temple Level 2  | Minions                            |  1  |
+|   8 | The Bath House              | Flask Duration                     |  1  |
 |   9 | The Vastiri Desert          | Attack and Cast Speed              |  2  |
 |   9 | The Boiling Lake            | Spell Damage                       |  3  |
 |   9 | The Quarry                  | Physical Damage                    |  3  |
