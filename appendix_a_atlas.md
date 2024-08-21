@@ -4,7 +4,9 @@ Once you have completed the campaign you unlock end-game content: **Maps.**  On 
 
 As you complete maps you earn **Atlas Skill Tree points.**  On PC the hotkey is `Ctrl`-`G`.
 
-Your first atlas skill tree should be focused on unlocking [Kirac Missions](https://poeplanner.com/atlas-tree/BAASACkAH8qH1F8-QL-n4iFgtWY4iH1ajerZWxe6HX23XX2ROJ3e_p87Tdee2AKuKY1Fl0U6s8fhELxJtXdzmaLQxB-u75GJYMgYiwtxqUPjP41kb7WZuRQAH4sIAAAAAAAAAwMAAAAAAAAAAAA=) so you can sustain maps. That is, when you run a map there will be a higher chance for mobs to drop a map.  This way you don't have to buy maps from other players.
+Your [first atlas skill tree](https://poeplanner.com/atlas-tree/BAASACkAH8qH1F8-QL-n4iFgtWY4iH1ajerZWxe6HX23XX2ROJ3e_p87Tdee2AKuKY1Fl0U6s8fhELxJtXdzmaLQxB-u75GJYMgYiwtxqUPjP41kb7WZuRQAH4sIAAAAAAAAAwMAAAAAAAAAAAA=) should be focused on unlocking [Kirac Missions](https://www.poewiki.net/wiki/Commander_Kirac) so you can sustain maps. That is, when you run a map there will be a higher chance for mobs to drop a map.  This way you don't have to buy maps from other players.
+
+* ![Atlas Map Sustain](pics/atlas_map_sustain.png)
 
 |Quality| Node                         |
 |------:|:-----------------------------|
