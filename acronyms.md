@@ -9,6 +9,7 @@ Every game has its own "lingo".  PoE is no exception.  There are numerous words 
 
 -A-
 * **Ascendancy:** Skill specialization for your class out of 3 possible sub-classes.
+* **ARPG:** Action Role-Playing Game. A _Real-Time_ action game where the player focuses on improving their character's power via items and attributes.  See _Turn-Based._
 
 -B-
 * **BBB:** An item with three blue sockets.
@@ -55,6 +56,7 @@ Every game has its own "lingo".  PoE is no exception.  There are numerous words 
 -M-
 * **Map:** An item that provides end-game content.
 * **Maps:** Second half of the game. Specifically, end-game content.
+* **Mob:** Mobile.  An enemy you can target or destroy.
 
 -O-
 * **Overleveled:** Having your character level be above the monster level in that zone.
@@ -63,10 +65,11 @@ Every game has its own "lingo".  PoE is no exception.  There are numerous words 
 * **PoE:** Path of Exile.
 
 -R-
-* **Res:** Resistance. Damage mitigation applied to spells. Two types: Elemental and Chaos.
+* **Real-Time:** A game that is played out in real-time.  See _Turn-Based._
 * **Reflect:** A defense mechanic that causes the attacker to take damage. We are immune with RF due to it being _Damage over Time,_ but our Frostblink gem needs to be kept low to avoid. See [Reflect](https://www.poewiki.net/wiki/Reflect) wiki.
 * **Regen:** Regeneration - either life regeneration or mana regeneration.  We want high life regeneration to offset Rigtheous Fire's self burning damage.
 * **Reset a Zone:** Creating a new instance of a zone by** by holding an additional key/button when selecting a waypoint or zone exit.  On PC hold `Ctrl`. On PS4/PS5 press △ for `New Instance`.
+* **Res:** Resistance. Damage mitigation applied to spells. Two types: Elemental and Chaos.
 * **RF:** Righteous Fire, the main skill we use.
 
 -S-
@@ -74,6 +77,9 @@ Every game has its own "lingo".  PoE is no exception.  There are numerous words 
 * **Soft-cap:** The normal amount a value is capped at.  Can be increased to the hard-cap. e.g. Resistances have a soft-cap of 75%.
 * **SSF:** Solo self found league.  You are unable to group or trade with others.
 * **STR:** Character attribute: Strength.
+
+-T-
+* **Turn-Based:** A game that players take turns to complete actions. See _Real-Time._
 
 -U-
 * **Uncapped:** The raw amount a value is. If we have "Fire Resistance 75% (200%)" then the 200% is the uncapped value.
@@ -87,4 +93,5 @@ Every game has its own "lingo".  PoE is no exception.  There are numerous words 
 ---
 
 Prev: [1. Introduction](introduction.md)
+Home: [Table of Contents](readme.md)
 Next: [3. Campaign Walkthrough](campaign.md)
