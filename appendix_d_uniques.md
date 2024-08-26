@@ -34,6 +34,19 @@ Level is the _minimum character level_ required to equip the item.
 |   62|Shield  |Champion Kite Shield |[Aegis Aurora](https://www.poewiki.net/wiki/Aegis_Aurora)                    | **Bis**                     | [99c](https://www.pathofexile.com/trade/search/Settlers/24ndck) |
 |   75|Weapon  |Vaal Sceptre         |[Doryani's Catalyst](https://www.poewiki.net/wiki/Doryani%27s_Catalyst)      | **Bis**                     | [2c](https://www.pathofexile.com/trade/search/Settlers/n3223Vs0)|
 
+
+For T17 maps these uniques will greatly help against RIPping:
+
+|Level|Type    |Base                 |Item                                                                         |Notes                           |Cost|
+|-----|--------|---------------------|-----------------------------------------------------------------------------|--------------------------------|---:|
+|  51 | Shield |Girded Tower Sheild  | [Svalinn](https://www.poewiki.net/wiki/Svalinn)                             | Block is Lucky (\*)            | [70c](https://www.pathofexile.com/trade/search/Settlers/gbdg9oPhQ) |
+|  50 | Ring   |Nameless Ring        | [The Hateful Accuser](https://www.poewiki.net/wiki/The_Hateful_Accuser)     | Penance Mark                   | [15c](https://www.pathofexile.com/trade/search/Settlers/qd36ymkHg) |
+
+Also see Gems skills:
+
+* Arcanist Brand
+* Flame Surge
+
 The unique **Brass Dome (Gladiator Plate)** is also a contender for armour. The _4% to all maximum elemental resistances_ is sufficient.  Only buy the 5% if you can afford it.
 
 Crafting Saintly Chainmail chest armour with _Essence of Loathing_ for Mana Reservattion.
