@@ -30,6 +30,7 @@
 * [Appendix F. FAQ](appendix_f_faq.md)
 * [Appendix G. Softcore Passive Tree Cheat Sheet](appendix_g_sc_passive.md)
 * [Appendix H. Hardcore Passive Skill Cheat Sheet](appendix_h_hc_passive.md)
+* [Appendix I. Item Filter](appendix_i_item_filter.md)
 * [References](references.md)
 
 ---
