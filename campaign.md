@@ -5,4 +5,5 @@ This is a complete Campaign walkthrough zone-by-zone meant for players who have 
 ---
 
 Prev: [2. Acronyms & Terminology](acronyms.md)
+Home: [Table of Contents](readme.md)
 Next: [3.1 Act 1](act1.md)
