@@ -36,7 +36,7 @@ Here is a table of all the crafting recipes found in the campaign:
 |   9 | The Quarry                  | Physical Damage                    |  3  |
 | ATn |                             | | |
 | ATc |                             | | |
-| ATm |                             | | |
+| ATm | Aspirant's Trial            | Double Resistances                 | 3   |
 
 **Legend:**
 
