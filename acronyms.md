@@ -9,7 +9,7 @@ Every game has its own "lingo".  PoE is no exception.  There are numerous words 
 
 -A-
 * **Ascendancy:** Skill specialization for your class out of 3 possible sub-classes.
-* **ARPG:** Action Role-Playing Game. A _Real-Time_ action game where the player focuses on improving their character's power via items and attributes.  See _Turn-Based._
+* **ARPG:** Action Role-Playing Game. A _Real-Time_ action game where the player focuses on improving their character's power via items and attributes.  PoE is an ARPG.  See _Turn-Based._
 
 -B-
 * **BBB:** An item with three blue sockets.
@@ -34,6 +34,7 @@ Every game has its own "lingo".  PoE is no exception.  There are numerous words 
 
 -G-
 * **Gem:** An item that grants us skills, modifies a skill, when equipped and used. Two types: Skill Gems and Support Gems.
+* **GGG:** Grinding Gear Games, the company that makes _Path of Exile_ and _Path of Exile 2._
 
 -H-
 * **Hard-cap:** The maximum possible a value can be. If we have "Fire Resistance 75% (200%)" then the 75% is the soft-cap value. Resistances have a hard cap of 90%. It takes skills, gems, or gear to increase the soft-cap to reach the hard-cap.
@@ -42,6 +43,7 @@ Every game has its own "lingo".  PoE is no exception.  There are numerous words 
 
 -I-
 * **INT:** Character attribute Intelligence.
+* **Item Filter:** A list of rules that determines whether to show or hide an item on the ground and mini-map.
 
 -J-
 * **Jug:** Marauder Juggernaut ascendancy class
@@ -52,11 +54,13 @@ Every game has its own "lingo".  PoE is no exception.  There are numerous words 
 -L-
 * **Lab:** The Lord's Labrynth. A multi-stage dungeon filled with traps while you survive 3 encounters against an unique boss, Izaro. Your rewards include Ascendency Skill Points, Quality to a gem, XP to a gem, and other permanent buffs.
 * **Level:** May refer to a Character, Floor, Gem, or Item level.
+* **Loot Filter:** See _Item Filter._
 
 -M-
 * **Map:** An item that provides end-game content.
 * **Maps:** Second half of the game. Specifically, end-game content.
 * **Mob:** Mobile.  An enemy you can target or destroy.
+* **MTX:** Microtransaction. In PoE paid items that allow you to customize your character or Pay-for-Utility stash tabs.
 
 -O-
 * **Overleveled:** Having your character level be above the monster level in that zone.
@@ -71,21 +75,31 @@ Every game has its own "lingo".  PoE is no exception.  There are numerous words 
 * **Reset a Zone:** Creating a new instance of a zone by** by holding an additional key/button when selecting a waypoint or zone exit.  On PC hold `Ctrl`. On PS4/PS5 press △ for `New Instance`.
 * **Res:** Resistance. Damage mitigation applied to spells. Two types: Elemental and Chaos.
 * **RF:** Righteous Fire, the main skill we use.
+* *RIPping:* Dying a lot.
 
 -S-
 * **Skill Tree:** Either the passive skill tree or atlas skill tree. A web of nodes
 * **Soft-cap:** The normal amount a value is capped at.  Can be increased to the hard-cap. e.g. Resistances have a soft-cap of 75%.
 * **SSF:** Solo self found league.  You are unable to group or trade with others.
+* **Stash:** Shared inventory storage (separate from your character).
+* **Stash Tab:** A "page" in your sharded storage. Your stash can be access in town, your hideout, and selected zones.  See Maxroll's [Stash Tabs Explained](https://maxroll.gg/poe/getting-started/stash-tabs-explained).
 * **STR:** Character attribute: Strength.
 
 -T-
+* **Tag a waypoint:** Running by a waypoint so it becomes unlocked.
 * **Turn-Based:** A game that players take turns to complete actions. See _Real-Time._
 
 -U-
 * **Uncapped:** The raw amount a value is. If we have "Fire Resistance 75% (200%)" then the 200% is the uncapped value.
 
+-V-
+* **Vendor Recipe:** Selling certain items to vendors will cause a specific currency in exchange. See [Vendor Recipe System](https://www.poewiki.net/wiki/Vendor_recipe_system).
+
+-W-
+* **Waypoint:** A
+
 -X-
-* **XP** = Experience Points. A minimum number of experience points is needed for each character and gem level.
+* **XP** = Experience Points. A minimum number of experience points is needed for each character level and gem level.
 
 -Z-
 * **Zone:** An area of the game.
