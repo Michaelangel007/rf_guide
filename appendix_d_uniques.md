@@ -49,7 +49,9 @@ Other uniques worth that may be worth considering are:
 |   27|Boots   |Clasped Boots        |[Sundance](https://www.poewiki.net/wiki/Sundance)                            |                                | ?c |
 |   28|Helm    |Festival Mask        |[Leer Cast](https://www.poewiki.net/wiki/Leer_Cast)                          |                                | ?c |
 |   41|Weapon  |Crystal Sceptre      |[Nycta's Lantern](https://www.poewiki.net/wiki/Nycta%27s_Lantern)            |                                | ?c |
+|   43|Gloves  |Zealot Gloves        |[Volkuur's Guidance](https://www.poewiki.net/wiki/Volkuur%27s_Guidance)      |                                | [1c](https://www.pathofexile.com/trade/search/Settlers/l9qPbZjTV)
 |   44|Talsiman|Rotfeather Talisman  |[Natural Hierarchy](https://www.poewiki.net/wiki/Natural_Hierarchy)          |                                | ?c |
+|   45|Ring    |Unset Ring           |[Voideye](https://www.poewiki.net/wiki/Voideye)                              |                                |[1c](https://www.pathofexile.com/trade/search/Settlers/5LV7jSa) |
 |   50|Shield  |Laminated Kite Shield|[Victario's Charity](https://www.poewiki.net/wiki/Victario%27s_Charity)      |Armour + Energy Shield          | ?c |
 |   52|Boots   |Legion Boots         |[Gang's Momentum](https://www.poewiki.net/wiki/Gang%27s_Momentum)            |Life Regen but little RF dmg    | ?c |
 |   59|Shield  |Branded Kite Shield  |[Saffell's Frame](https://www.poewiki.net/wiki/Saffell%27s_Frame)            | **AVOID** Cannot Block Attacks | ?c |
@@ -58,6 +60,14 @@ Other uniques worth that may be worth considering are:
 |   65|Chest   |Gladiator Plate      |[The Brass Dome](https://www.poewiki.net/wiki/The_Brass_Dome)                |                                | ?c |
 |   68|Amulet  |Onyx Amulet          |[Leaderhip's Price](https://www.poewiki.net/wiki/Leadership%27s_Price)       |                                | ?c |
 |   74|Amulet  |Marble Amulet        |[Bloodgrip](https://www.poewiki.net/wiki/Bloodgrip)                          |                                | ?c |
+
+Note:
+
+* Voideye comes in three variations; to find one with fire skills add this **Stat Filter** to the Trade Filter:
+
+```
+Fire Skills Have #% Chance To Poison On Hit
+```
 
 ---
 
