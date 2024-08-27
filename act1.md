@@ -181,4 +181,5 @@ Zone Objectives:
 ---
 
 Prev: [2. Acronyms & Terminology](acronyms.md)
+Home: [Table of Contents](readme.md)
 Next: [3.2 Act 2](act2.md)
