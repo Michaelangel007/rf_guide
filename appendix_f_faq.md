@@ -89,7 +89,7 @@ Q. **Why do you have re-cast RF every time I enter a zone?**
 
 ---
 
-Q. **If I cast RF but then remove the RF gem why does the RF aura remain around my character?**
+Q. **If I cast RF but then remove the RF gem why does the (small) RF aura remain around my character?**
   * It is a bug if you have enough life regen. Change zones and it will disappear.
 
 ---
@@ -97,6 +97,22 @@ Q. **If I cast RF but then remove the RF gem why does the RF aura remain around 
 Q. **Does "Increased Spell Damage" apply to RF?**
   * Sadly, no.  You can test this out by equipping the unique ring [Tawhanuku's Timing
 ](https://www.poewiki.net/wiki/Tawhanuku%27s_Timing) and seeing the tooltip DPS stays the same.
+
+---
+
+Q. **Does _"Adds # to # Fire Damge"_ apply to RF?***
+* No. RF has the _spell_ tag; bonuses to physical attacks don't apply.
+
+---
+
+Q. **Does _"Adds # to # Fire Damage to Spells"_ apply to RF?**
+Q. **Does _"Adds # to # Cold Damage to Spells"_ apply to RF?**
+Q. **Does _"Adds # to # Lightning Damage to Spells"_ apply to RF?**
+* No. Technically this is a bug/feature. Even though RF has the spell tag, modifiers to spells do NOT apply to it; only these affixes:
+
+  * _#% Increased Elemental Damage_
+  * _#% Increased Fire Damage_
+  * _#% Increased Damage Over Time_
 
 ---
 
