@@ -130,7 +130,7 @@ While the cursor is over an item hold down the following button to see the item 
   * On desktop hold down `Alt`,
   * On console hold down `L3`.
 
-### 3.3.1 Zone: The City of Sarn
+### 3.3.1 The City of Sarn
 
 Zone Objectives:
 
@@ -176,12 +176,11 @@ Zone Objectives:
 
 ### 3.3.5 Town: The Sarn Encampment
 
-  * Talk to Clarissa, turn in the quest and get the Sewer Keys
-  * [TEMPLAR] NPC: Maramoa Quest: Lost in Love, Reward: Flammability Support
-    * Talk to Maramoa and get the Flammability gem.
-    * You may not have enough Int to wear it but we will pick up Int nodes on the passive skill tree later.
-  * Talk to Clarissa, Buy Blue gem Purity of Elements
-  * Head back to The Slums.
+  * Talk to Clarissa, turn in the quest and get the Sewer Keys.
+  * [TEMPLAR] NPC: Maramoa Quest: Lost in Love, Reward: Flammability Support.
+    * You may not have enough _Int_ to wear it but we will pick up Int nodes on the passive skill tree later.
+  * Talk to Clarissa, Buy Blue gem: [Purity of Elements](https://www.poewiki.net/wiki/Purity_of_Elements)
+  * Head back to _The Slums._
 
 ### 3.3.6 Zone: The Slums, Monster Level 24
 
@@ -367,4 +366,5 @@ Tower Rooftop, Monster Level 33
 ---
 
 Prev: [3.2 Act 2](act2.md)
+Home: [Table of Contents](readme.md)
 Next: [3.4 Act 4](act4.md)
