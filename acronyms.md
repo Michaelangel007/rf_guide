@@ -9,6 +9,7 @@ Every game has its own "lingo".  PoE is no exception.  There are numerous words 
 
 -A-
 * **Ascendancy:** Skill specialization for your class out of 3 possible sub-classes.
+* **Affix:** An item prefix or suffix.
 * **ARPG:** Action Role-Playing Game. A _Real-Time_ action game where the player focuses on improving their character's power via items and attributes.  PoE is an ARPG.  See _Turn-Based._
 
 -B-
@@ -67,6 +68,7 @@ Every game has its own "lingo".  PoE is no exception.  There are numerous words 
 
 -P-
 * **PoE:** Path of Exile.
+* **Prefix:** An enhancement that can be added to an item that takes up the invisible prefix slot on the item. See _Suffix._
 
 -R-
 * **Real-Time:** A game that is played out in real-time.  See _Turn-Based._
@@ -84,9 +86,11 @@ Every game has its own "lingo".  PoE is no exception.  There are numerous words 
 * **Stash:** Shared inventory storage (separate from your character).
 * **Stash Tab:** A "page" in your sharded storage. Your stash can be access in town, your hideout, and selected zones.  See Maxroll's [Stash Tabs Explained](https://maxroll.gg/poe/getting-started/stash-tabs-explained).
 * **STR:** Character attribute: Strength.
+* **Suffix:** An enhancement that can be added to an item that takes up the invisible prefix slot of the item. See _Prefix._
 
 -T-
-* **Tag a waypoint:** Running by a waypoint so it becomes unlocked.
+* **Tag:** Below the name of a gem it will have categories of which it belongs to. i.e. Attack, Spell, Projectile,  These are called tags.
+* **Tag-a-waypoint:** Running by a waypoint so it becomes unlocked.
 * **Turn-Based:** A game that players take turns to complete actions. See _Real-Time._
 
 -U-
