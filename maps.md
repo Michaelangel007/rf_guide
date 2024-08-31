@@ -38,6 +38,15 @@ You will see the state of:
 * Atlas Map
 * Bonus Objective
 
+## 4.1 Map Modifiers to avoid
+
+THere are certain map modifiers you should avoid:
+
+* Players have #% Less Recovery Rate of Life and Energy Shield
+
+This will lower your life regeneration rate and you won't be able to sustain RF.
+
+
 Also see:
 
 * Pohx has a video called [PoE 3.25 - What to do after the Campaign](https://www.youtube.com/watch?v=ZLdJdRGQtJs)
