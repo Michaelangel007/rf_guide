@@ -13,6 +13,7 @@ Every game has its own "lingo".  PoE is no exception.  There are numerous words 
 * **ARPG:** Action Role-Playing Game. A _Real-Time_ action game where the player focuses on improving their character's power via items and attributes.  PoE is an ARPG.  See _Turn-Based._
 
 -B-
+* **Block Recovery:** If you block a hit that would have stunned you block recovery lowers the duration of the block animation that is triggered.
 * **BBB:** An item with three blue sockets.
 * **RBBB:** An item with four sockets: one red and three blue -- perfect for RF during the campaign.
 
