@@ -56,6 +56,7 @@ These maps have the following crafting recipes:
 
 | Map         | Crafting Recipe               |Rank |
 |:------------|:------------------------------|:---:|
+| Atoll       | Attack and Spell Block        |  1  |
 | Cells       | Leech                         |  1  |
 | Cemetery    | Criticals                     |  1  |
 | Dungeon     | Special Defences              |  1  |
