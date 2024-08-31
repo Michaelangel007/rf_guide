@@ -11,20 +11,25 @@ For example the [Siege Map](https://www.poewiki.net/wiki/Siege_Map) re-uses:
 
 Maps are grouped into Tiers by difficulty. Tier 1 is easiest with Tier 17 the hargest.
 
-You may see or hear people talk about white maps, yellow maps, red maps.  If you have the [premium stash tab](https://www.pathofexile.com/shop/category/stash-tabs), the _Map Stash Tab_ then you will notice that it has Tiers 1 - 17 color-coded:
+You may see or hear people talk about White, Yellow, Red, or Purple maps.  If you have the [premium stash tab](https://www.pathofexile.com/shop/category/stash-tabs) ...
 
 [Map Stash Tab](pics/map_stash_tab.png)
+
+... you will notice that the _Map Stash Tab_ has Tiers 1 - 17 color-coded:
 
 |Difficulty |Color   |
 |:----------|:-------|
 |Tiers 1-5  | White  |
 |Tiers 6-10 | Yellow |
 |Tiers 11-16| Red    |
+|Tiers 17   | Purple |
+
+/!\ You can tell if a map has been completed if there is a white line below the map.
 
 Pohx has a video called [PoE 3.25 - What to do after the Campaign](https://www.youtube.com/watch?v=ZLdJdRGQtJs)
 
 ---
 
-Prev: [4.9 Act 9](act10.md)
+Prev: [4.10 Act 10](act10.md)
 Home: [Table of Contents](readme.md)
 Next: [4.1 Tier 1](maps_t1.md)
