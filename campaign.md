@@ -10,13 +10,12 @@ The following short-hand will be used to indicate zone layouts:
 * `O` Circular
 * `8` Multiple smaller loops
 * `-` Linear
+* `△` Pryamid -- multiple floors with each floor getting smaller and smaller.
 
 ## 3.0.1 Zone Summary
-
-
 
 ---
 
 Prev: [2. Acronyms & Terminology](acronyms.md)
-Home: [Table of Contents](readme.md)
+Home: [Table of Contents](README.md)
 Next: [3.1 Act 1](act1.md)
