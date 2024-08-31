@@ -58,6 +58,7 @@ Other uniques worth that may be worth considering are:
 |   16|Amulet  |Citrine Amulet       |[Daresso's Salute](https://www.poewiki.net/wiki/Daresso%27s_Salute)          |                                | ?c |
 |   17|Shield  |Cedar Tower Shield   |[Trolltimber Spire](https://www.poewiki.net/wiki/Trolltimber_Spire)          |Armor + Life Regen              | ?c |
 |   20|Ring    |Topaz Ring           |[Kikazaru](https://www.poewiki.net/wiki/Kikazaru)                            | +10 attributes                 | ?c |
+|   20|Ring    |Moonstrong Ring      | Heartbound Loop                                                             | Regen +10-15 Life/s            | ?c |
 |   24|Ring    |Iron Ring            |[Le Heup Of All](https://www.poewiki.net/wiki/Le_Heup_of_All)                |                                | ?c |
 |   27|Boots   |Clasped Boots        |[Sundance](https://www.poewiki.net/wiki/Sundance)                            |                                | ?c |
 |   28|Helm    |Festival Mask        |[Leer Cast](https://www.poewiki.net/wiki/Leer_Cast)                          |                                | ?c |
