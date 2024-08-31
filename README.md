@@ -5,6 +5,7 @@
 * [1. Introduction](introduction.md)
 * [2. Acronyms](acronyms.md)
 * [3. Campaign Walkthrough](campaign.md)
+  * [3.0 Zone Layouts](campaign.md#zone_layouts)
   * [3.1 Act 1](act1.md)
     * [3.1.1 The Twilight Strand]()
     * [3.1.2 Lioneye's Watch]()
