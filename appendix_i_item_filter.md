@@ -18,6 +18,10 @@ New players should start with the _Regular_ one until they get comfortable custo
 
 ## Appendix I.2  Installing a Item Filter on PC
 
+Copy the loot filter into:
+
+`%appdata%\..\..\Documents\My Games\Path of Exile\`
+
 ## Appendid I.3 Customizing a Loot Filter
 
 Why would I want to customize a loot filter?
