@@ -1,5 +1,7 @@
 # Appendix C. Campaign Recipes Cheat Sheet
 
+## C.1 Campaign Crafting Recipes
+
 Here is a table of all the crafting recipes found in the campaign:
 
 | Act | Zone                        | Crafting Recipe                      | Rank|
@@ -48,10 +50,45 @@ Here is a table of all the crafting recipes found in the campaign:
 * ATc = Aspirant's Trial Cruel
 * ATm = Aspirant's Trial Merciless
 
+## C.2 Map Crafting Recipes
+
+These maps have the following crafting recipes:
+
+| Map         | Crafting Recipe               |Rank |
+|:------------|:------------------------------|:---:|
+| Cells       | Leech                         |  1  |
+| Cemetery    | Criticals                     |  1  |
+| Dungeon     | Special Defences              |  1  |
+| Estuary     | Mana Regen                    |  2  |
+| Fields      | Traps and Mines               |  2  |
+| Graveyard   | Attributes                    |  3  |
+| Lair        | Flask Duration                |  2  |
+| Marshes     | Elemental Damage With Attacks |  2  |
+| Moon Temple | Global Energy Shield          |  1  |
+
+## C.3 Notable RF Crafting Recipes
+
+These crafting recipes are helpful for bench crafting to boost your RF damage:
+
+| Type | Zone                                           | Crafting Recipe                                      |Rank |
+|:-----|:-----------------------------------------------|:-----------------------------------------------------|:---:|
+| Zone | The Crypt                                      | (11-20)% increased Damage over Time                  |  1  |
+| Map  | [Shore](https://www.poewiki.net/wiki/Shore_Map)| (21-30)% increased Damage over Time                  |  2  |
+| Zone | The Solaris Temple Level 2                     | Suffix: (9-12)% increased Fire Damage                |  1  |
+| Zone | The Dread Thicket                              | Suffix: (11-13)% increased Fire Damage               |  2  |
+| Map  | [Silo](https://www.poewiki.net/wiki/Silo_Map)  | Prefix: (67-81)% increased Fire Damage               |  ?  |
+| Jun  | n/a                                            | Suffix: (11-13)% increased Fire Damage               |  ?  |
+| Jun  | n/a                                            | Suffix: (14-16)% increased Fire Damage               |  ?  |
+| Jun  | n/a                                            | Suffix: (14-15)% to Fire Damage over Time Multiplier |  1  |
+| Jun  | n/a                                            | Suffix: (16-17)% to Fire Damage over Time Multiplier |  2  |
+| Jun  | n/a                                            | Suffix: (18-20)% to Fire Damage over Time Multiplier |  3  |
+
+## C.4 Sockets and Links
+
 Other notable crafting recipe unlock locations:
 
 | Type| Zone              | Crafting Recipe |Rank |
-|:----|:------------------|:----------------|:----:|
+|:----|:------------------|:----------------|:---:|
 | Map | Infested Valley   | 5 Linked        | n/a |
 | Map | Lighthouse        | 6 Linked        | n/a |
 | Map | Arachnid Tomb     | 5 Socket        | n/a |
@@ -67,24 +104,11 @@ Alternatively, if you enjoy [Delve](https://www.poewiki.net/wiki/Delve) you can 
 **NOTES:**
 
 * The _Abyssal City_ is different from the [Abyssal Depths](https://www.poewiki.net/wiki/Abyssal_Depths_(Delve).
+  * ![Abyssal City - Abyssal Chamber](pics/delve/abyssal_chamber.png]
 * If you wish to farm the Delve bosses, [Aul, the Crystal King](https://www.poewiki.net/wiki/Aul,_the_Crystal_King) he can only spawn at depth 130+; realistically this will be 250+.
-
-**Maps:**
-
-| Map         | Crafting Recipe               |Rank |
-|:------------|:------------------------------|:---:|
-| Cells       | Leech                         |  1  |
-| Cemetery    | Criticals                     |  1  |
-| Dungeon     | Special Defences              |  1  |
-| Estuary     | Mana Regen                    |  2  |
-| Fields      | Traps and Mines               |  2  |
-| Graveyard   | Attributes                    |  3  |
-| Lair        | Flask Duration                |  2  |
-| Marshes     | Elemental Damage With Attacks |  2  |
-| Moon Temple | Global Energy Sheild          |  1  |
 
 ---
 
 Prev: [Appendix B. Build Guide](appendix_b_build_guide.md)
-Home: [Table of Contents](readme.md)
+Home: [Table of Contents](README.md)
 Next: [Appendix D. Uniques for Leveling](appendix_d_uniques.md)
