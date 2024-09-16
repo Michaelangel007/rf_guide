@@ -116,6 +116,23 @@ Q. **Does _"Adds # to # Lightning Damage to Spells"_ apply to RF?**
 
 ---
 
+Q. **PoB is showing +10% to Block Chance instead of -10% with Svalinn?**
+  * PoB is simulating the "Block is Lucky" (block is rolled twice, higher block chance is used.)
+
+---
+
+Q. **How do I increase my Chance to Ignite?**
+  * Tattoos. Specifically, _Tattoo of the Ngamahu Warmonger_
+
+---
+
+Q. **What do I need for end-game content?**
+
+  * Blight: Ignite Chance
+  * Legion: AoE
+
+---
+
 Prev: [Appendix E. Maxium Fire Resist](appendix_e_fire_resist.md)
 Home: [Table of Contents](readme.md)
 Next: [Appendix G. Softcore Passive Tree Cheat Sheet](appendix_g_sc_passive.md)
