@@ -13,5 +13,5 @@ You will want to be around Level 65 - 68.
 ---
 
 Prev: [3.10 Act 10](act10.md)
-Home: [Table of Contents](readme.md)
+Home: [Table of Contents](README.md)
 Next: [4. Maps](maps.md)
