@@ -56,9 +56,10 @@ Other uniques worth that may be worth considering are:
 |Level|Type    |Base                 |Item                                                                         |Notes                           |Cost|
 |-----|--------|---------------------|-----------------------------------------------------------------------------|--------------------------------|---:|
 |   16|Amulet  |Citrine Amulet       |[Daresso's Salute](https://www.poewiki.net/wiki/Daresso%27s_Salute)          |                                | ?c |
+|   16|Amulet  |Turquoise Amulet     |[Victario's Acuity](https://www.poewiki.net/wiki/Victario%27s_Acuity)        |                                | ?c |
 |   17|Shield  |Cedar Tower Shield   |[Trolltimber Spire](https://www.poewiki.net/wiki/Trolltimber_Spire)          |Armor + Life Regen              | ?c |
 |   20|Ring    |Topaz Ring           |[Kikazaru](https://www.poewiki.net/wiki/Kikazaru)                            | +10 attributes                 | ?c |
-|   20|Ring    |Moonstrong Ring      | Heartbound Loop                                                             | Regen +10-15 Life/s            | ?c |
+|   20|Ring    |Moonstrong Ring      |[Heartbound Loop](https://www.poewiki.net/wiki/Heartbound_Loop)              | Regen +10-15 Life/s            | [1c](https://www.pathofexile.com/trade/search/Settlers/2LY8mGUk)) |
 |   24|Ring    |Iron Ring            |[Le Heup Of All](https://www.poewiki.net/wiki/Le_Heup_of_All)                |                                | ?c |
 |   27|Boots   |Clasped Boots        |[Sundance](https://www.poewiki.net/wiki/Sundance)                            |                                | ?c |
 |   28|Helm    |Festival Mask        |[Leer Cast](https://www.poewiki.net/wiki/Leer_Cast)                          |                                | ?c |
@@ -67,7 +68,9 @@ Other uniques worth that may be worth considering are:
 |   44|Talsiman|Rotfeather Talisman  |[Natural Hierarchy](https://www.poewiki.net/wiki/Natural_Hierarchy)          |                                | ?c |
 |   45|Ring    |Unset Ring           |[Voideye](https://www.poewiki.net/wiki/Voideye)                              |                                |[1c](https://www.pathofexile.com/trade/search/Settlers/5LV7jSa) |
 |   50|Shield  |Laminated Kite Shield|[Victario's Charity](https://www.poewiki.net/wiki/Victario%27s_Charity)      |Armour + Energy Shield          | ?c |
+|   52|Amulet  |Agate Amulet         |Eternal Damnation                                                                                             | ?c |
 |   52|Boots   |Legion Boots         |[Gang's Momentum](https://www.poewiki.net/wiki/Gang%27s_Momentum)            |Life Regen but little RF dmg    | ?c |
+|   53|Chest   |Majestic Plate       |[Utula's Hunger](https://www.poewiki.net/wiki/Utula%27s_Hunger)              | NOTE: Can't have ANY life on ALL equipped gear. | ?c |
 |   59|Shield  |Branded Kite Shield  |[Saffell's Frame](https://www.poewiki.net/wiki/Saffell%27s_Frame)            | **AVOID** Cannot Block Attacks | ?c |
 |   63|Helm    |Prophet Crown        |[The Broken Crown](https://www.poewiki.net/wiki/The_Broken_Crown)            |                                | ?c |
 |   64|Boots   |Crusader Boots       |[Death's Door](https://www.poewiki.net/wiki/Death%27s_Door)                  |                                | ?c |
@@ -77,7 +80,7 @@ Other uniques worth that may be worth considering are:
 
 Note:
 
-* Voideye comes in three variations; to find one with fire skills add this **Stat Filter** to the Trade Filter:
+* Voideye comes in THREE variations!; to find one with fire skills add this **Stat Filter** to the Trade Filter:
 
 ```
 Fire Skills Have #% Chance To Poison On Hit
