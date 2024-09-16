@@ -54,18 +54,26 @@ Here is a table of all the crafting recipes found in the campaign:
 
 These maps have the following crafting recipes:
 
-| Map         | Crafting Recipe               |Rank |
-|:------------|:------------------------------|:---:|
-| Atoll       | Attack and Spell Block        |  1  |
-| Cells       | Leech                         |  1  |
-| Cemetery    | Criticals                     |  1  |
-| Dungeon     | Special Defences              |  1  |
-| Estuary     | Mana Regen                    |  2  |
-| Fields      | Traps and Mines               |  2  |
-| Graveyard   | Attributes                    |  3  |
-| Lair        | Flask Duration                |  2  |
-| Marshes     | Elemental Damage With Attacks |  2  |
-| Moon Temple | Global Energy Shield          |  1  |
+| Map            | Crafting Recipe               |Rank |
+|:---------------|:------------------------------|:---:|
+| Atoll          | Attack and Spell Block        |  1  |
+| Arachnid Tomb  | Socket Numbers                |  5  |
+| Basilica       | Leech                         |  2  |
+| Cells          | Leech                         |  1  |
+| Cemetery       | Criticals                     |  1  |
+| Cold River     | Cold Damage                   |  3  |
+| Dungeon        | Special Defences              |  1  |
+| Estuary        | Mana Regen                    |  2  |
+| Fields         | Traps and Mines               |  2  |
+| Fungal Hollow  | Life and Mana                 |  4  |
+| Graveyard      | Attributes                    |  3  |
+| Haunted Mansion| Attack and Spell Block        |  2  |
+| Lair           | Flask Duration                |  2  |
+| Marshes        | Elemental Damage With Attacks |  2  |
+| Maze           | Criticals                     |  3  |
+| Moon Temple    | Global Energy Shield          |  1  |
+| Pier           | Socket Numbers                |  6  |
+| Ramparts       | Global Energy Shield          |  2  |
 
 ## C.3 Notable RF Crafting Recipes
 
