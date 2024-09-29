@@ -42,13 +42,16 @@ Here is a table of all the crafting recipes found in the campaign:
 | Epi | Karui Shores                | Movement Speed and Flask Enchantments|  3  |
 | ATn |                             | | |
 | ATc |                             | | |
-| ATm | Aspirant's Trial            | Double Resistances                   |  3  |
+| ATm | Aspirant's Trial Merciless  | Double Resistances                   |  3  |
+| ATe | Aspirant's Trial Eternal    | All Reistances                       |  2  |
 
 **Legend:**
 
+* Epi = Epilogue
 * ATn = Aspirant's Trial Normal
 * ATc = Aspirant's Trial Cruel
 * ATm = Aspirant's Trial Merciless
+* ATe = Aspirant's Trial Eternal
 
 ## C.2 Map Crafting Recipes
 
@@ -62,6 +65,7 @@ These maps have the following crafting recipes:
 | Cells          | Leech                         |  1  |
 | Cemetery       | Criticals                     |  1  |
 | Cold River     | Cold Damage                   |  3  |
+| Crimson Township | Reduced Damage Over Time    | n/a |
 | Dungeon        | Special Defences              |  1  |
 | Estuary        | Mana Regen                    |  2  |
 | Fields         | Traps and Mines               |  2  |
