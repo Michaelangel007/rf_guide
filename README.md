@@ -65,7 +65,7 @@
     * [3.10.2 The Cathedral Rooftop]()
     * [3.10.3 The Ravaged Square]()
     * [3.10.4 The Control Blocks]()
-    * [3.10.5 The Reliqauary]
+    * [3.10.5 The Reliqauary]()
     * [3.10.6 The Ossuary]()
     * [3.10.7 The Torched Courts]()
     * [3.10.8 The Descrated Chambers]()
@@ -108,6 +108,7 @@
       * [4.4.6 Vaal Pyramid]()
       * [4.4.7 Vault]()
     * [4.5 Tier 5](maps_t5.md)
+      * [4.5.1 Atoll]()
     * [4.6 Tier 6](maps_t6.md)
     * [4.7 Tier 7](maps_t7.md)
     * [4.8 Tier 8](maps_t8.md)
@@ -135,6 +136,8 @@
 * [Appendix G. Softcore Passive Tree Cheat Sheet](appendix_g_sc_passive.md)
 * [Appendix H. Hardcore Passive Skill Cheat Sheet](appendix_h_hc_passive.md)
 * [Appendix I. Item Filter](appendix_i_item_filter.md)
+* [Appendix J. Utilities](appendix_j_utilities.md)
+  * [Scarab Pricing](append_j_utilities.md#scarab_pricing)
 * [References](references.md)
 
 ---
