@@ -11,6 +11,7 @@ The following short-hand will be used to indicate zone layouts:
 * `8` Multiple smaller loops
 * `-` Linear
 * `△` Pryamid -- multiple floors with each floor getting smaller and smaller.
+* `Z` Linear but seperated by doors/tunnels. i.e. [Malformation Map]()
 
 ## 3.0.1 Zone Summary
 
