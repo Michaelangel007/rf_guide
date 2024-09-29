@@ -6,37 +6,42 @@ Here is a table of all the crafting recipes found in the campaign:
 
 | Act | Zone                        | Crafting Recipe                      | Rank|
 |----:|:----------------------------|:-------------------------------------|:---:|
-|   1 |                             | | |
-|   1 |                             | | |
+|   1 |                             | n/a                                  | n/a |
 |   2 | The Ancient Pyramid         | Spell Damage                         |  1  |
+|   3 | The Catacombs               | Elemental Damage with Attacks        |  1  |
+|   3 | The City of Sarn            | Movement Speed                       |  1  |
 |   3 | The Crematorium             | Defences                             |  1  |
-|   4 | The Dried Lake              | Attack, Cast and Warcry Speed        |  1  |
-|   4 | The Mines Level 1           | Socket colours                       | n/a |
-|   4 | The Grand Arena             | Socket Numbers - 2 to 4 Sockets      | n/a |
-|   4 | The Crystal Veins           | Cold Damage                          |  1  |
+|   3 | The Imperial Gardens        | All Attributes                       |  1  |
+|   3 | The Lunaris Temple 2        | Lightning Damage                     |  1  |
+|   3 | The Sewers                  | Physical Damage                      |  1  |
+|   3 | The Solaris Temple 2        | Fire Damage                          |  1  |
 |   4 | Kaom's Stronghold           | Socket Links - 2 to 4 Links          | n/a |
 |   4 | The Ascent                  | Ailmment, Stun, and Curse            |  1  |
+|   4 | The Crystal Veins           | Cold Damage                          |  1  |
+|   4 | The Dried Lake              | Attack, Cast and Warcry Speed        |  1  |
+|   4 | The Grand Arena             | Socket Numbers - 2 to 4 Sockets      | n/a |
+|   4 | The Mines Level 1           | Socket colours                       | n/a |
 |   5 | The Chamber of Innocence    | Movement Speed and Exerted Attacks   |  2  |
 |   5 | The Ossuary                 | Physical Damage                      |  2  |
 |   5 | The Reliquary               | Accuracy                             |  1  |
+|   6 | The Beacon                  | Life and Mana                        |  2  |
 |   6 | The Karui Fortress          | Defences                             |  2  |
 |   6 | The Lower Prison            | Double Resistances                   |  2  |
 |   6 | The Warden's Chamber        | Spell Damage                         |  2  |
 |   6 | The Western Forest          | Attributes                           |  2  |
-|   6 | The Beacon                  | Life and Mana                        |  2  |
-|   7 | The Crypt                   | Damage Over Time                     |  2  |
-|   7 | The Chamber of Sins Level 2 | Mana Regen                           |  1  |
-|   7 | The Dread Thicket           | Fire Damage                          |  2  |
 |   7 | The Causeway                | Cold Damage                          |  2  |
+|   7 | The Chamber of Sins Level 2 | Mana Regen                           |  1  |
+|   7 | The Crypt                   | Damage Over Time                     |  2  |
+|   7 | The Dread Thicket           | Fire Damage                          |  2  |
 |   7 | The Temple of Decay         | Chaos Damage                         |  1  |
 |   8 | Doedre's Cesspool           | Elemental Resists                    |  3  |
-|   8 | The Solaris Temple Level 2  | Traps and Mines                      |  1  |
-|   8 | The Lunaris Temple Level 2  | Minions                              |  1  |
 |   8 | The Bath House              | Flask Duration                       |  1  |
-|   9 | The Vastiri Desert          | Attack and Cast Speed                |  2  |
+|   8 | The Lunaris Temple Level 2  | Minions                              |  1  |
+|   8 | The Solaris Temple Level 2  | Traps and Mines                      |  1  |
 |   9 | The Boiling Lake            | Spell Damage                         |  3  |
-|   9 | The Tunnel                  | All Attributes                       |  2  |
 |   9 | The Quarry                  | Physical Damage                      |  3  |
+|   9 | The Tunnel                  | All Attributes                       |  2  |
+|   9 | The Vastiri Desert          | Attack and Cast Speed                |  2  |
 |  10 | The Descrated Chambers      | Accuracy                             |  2  |
 |  10 | The Feeding Trough          | Life and Mana                        |  3  |
 | Epi | Karui Shores                | Movement Speed and Flask Enchantments|  3  |
@@ -77,6 +82,7 @@ These maps have the following crafting recipes:
 | Maze           | Criticals                     |  3  |
 | Moon Temple    | Global Energy Shield          |  1  |
 | Pier           | Socket Numbers                |  6  |
+| Port           | Physical Damage               |  4  |
 | Ramparts       | Global Energy Shield          |  2  |
 
 ## C.3 Notable RF Crafting Recipes
