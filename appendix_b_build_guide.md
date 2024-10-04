@@ -2,6 +2,10 @@
 
 POB coming soon.
 
+**Notes:**
+
+* CLev = Minimum Character Level needed to equip the gem.
+* SDMTSRW = sCion / Duelist / Marauder / Ranger / Shadow / Templar / Witch
 
 Armor: RRGBBB
 
