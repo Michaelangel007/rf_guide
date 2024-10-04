@@ -18,7 +18,8 @@
 
 * Crafting Recipe: none
 * Layout: `△`
-* Tileset: 
+* Floors: 4
+* Tileset: [The Vaal Ruins](https://www.poewiki.net/wiki/The_Vaal_Ruins)
 * Bosses:
   * The Fallen Queen
   * The Hollow Lady
@@ -35,3 +36,8 @@ See:
 Prev: [Tier 3](maps_t3.md)
 Home: [Table of Contents](README.md)
 Next: [Tier 5](maps_t5.md)
+
+
+
+Malformation
+Doors/Tunnels: Yes
