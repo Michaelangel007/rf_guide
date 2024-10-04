@@ -17,10 +17,11 @@ Here is a table of all the crafting recipes found in the campaign:
 |   3 | The Solaris Temple 2        | Fire Damage                          |  1  |
 |   4 | Kaom's Stronghold           | Socket Links - 2 to 4 Links          | n/a |
 |   4 | The Ascent                  | Ailmment, Stun, and Curse            |  1  |
+|   4 | The Belly of the Beast 2    | Elemental Resistances                |  2  |
 |   4 | The Crystal Veins           | Cold Damage                          |  1  |
 |   4 | The Dried Lake              | Attack, Cast and Warcry Speed        |  1  |
 |   4 | The Grand Arena             | Socket Numbers - 2 to 4 Sockets      | n/a |
-|   4 | The Mines Level 1           | Socket colours                       | n/a |
+|   4 | The Mines Level 1           | Socket Colours                       | n/a |
 |   5 | The Chamber of Innocence    | Movement Speed and Exerted Attacks   |  2  |
 |   5 | The Ossuary                 | Physical Damage                      |  2  |
 |   5 | The Reliquary               | Accuracy                             |  1  |
@@ -45,8 +46,8 @@ Here is a table of all the crafting recipes found in the campaign:
 |  10 | The Descrated Chambers      | Accuracy                             |  2  |
 |  10 | The Feeding Trough          | Life and Mana                        |  3  |
 | Epi | Karui Shores                | Movement Speed and Flask Enchantments|  3  |
-| ATn |                             | | |
-| ATc |                             | | |
+| ATn | Aspirant's Trial Normal     | All Resistances                      |  1  |
+| ATc | Aspirant's Trial Cruel      | | |
 | ATm | Aspirant's Trial Merciless  | Double Resistances                   |  3  |
 | ATe | Aspirant's Trial Eternal    | All Reistances                       |  2  |
 
