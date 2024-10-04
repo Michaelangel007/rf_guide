@@ -9,6 +9,14 @@ POB coming soon.
 
 Armor: RRGBBB
 
+|Color| Skill Gem                                                                      |CLev| Class     | Quest                     | Cost (Siosa)         |
+|:---:|:-------------------------------------------------------------------------------|---:|:----------|:--------------------------|---------------------:|
+| B | [Righteous Fire](https://www.poewiki.net/wiki/Righteous_Fire)                    | 16 | `--M--TW` | Act 2, Intruders in Black | Orb of Alteration    |
+| B | [Efficacy Support](https://www.poewiki.net/wiki/Efficacy_Support)                |  8 | `-----TW` | Act 1, The Caged Brute    | Orb of Transmutation |
+| B | [Elemental Focus Support](https://www.poewiki.net/wiki/Elemental_Focus_Support)  | 18 | `-----TW` | Act 2, Sharp and Cruel    | Orb of Alteration    |
+| R | [Burning Damage Support](https://www.poewiki.net/wiki/Burning_Damage_Support)    | 31 | `-----TW` | Act 3, A Fixture of Fate  | Orb of Chance        |
+| R | [Lifetap Support](https://www.poewiki.net/wiki/Lifetap_Support)                  |  8 | `CDM--T-` | Act 1, The Caged Brute    | Orb of Transmutation |
+| G | [Swift Affliction Support](https://www.poewiki.net/wiki/Swift_Affliction_Support)| 31 | `----S-W` | Act 3, A Fixture of Fate  | Orb of Chance        |
 
 * B [Righteous Fire](https://www.poewiki.net/wiki/Righteous_Fire) -- Level 16, Witch/Templar/Marauder, Act 2, Intruders in Black
 * B [Efficacy Support](https://www.poewiki.net/wiki/Efficacy_Support) -- Level 8, Witch/Templar, Act 1, The Caged Brute
