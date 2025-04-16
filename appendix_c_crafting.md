@@ -6,7 +6,7 @@ Here is a table of all the crafting recipes found in the campaign:
 
 | Act | Zone                        | Crafting Recipe                      | Rank|
 |----:|:----------------------------|:-------------------------------------|:---:|
-|   1 |                             | n/a                                  | n/a |
+|   1 | n/a                         | n/a                                  | n/a |
 |   2 | The Ancient Pyramid         | Spell Damage                         |  1  |
 |   2 | The Caverns                 | Vaal Skill Damage                    |  1  |
 |   3 | The Catacombs               | Elemental Damage with Attacks        |  1  |
@@ -48,7 +48,7 @@ Here is a table of all the crafting recipes found in the campaign:
 |  10 | The Feeding Trough          | Life and Mana                        |  3  |
 | Epi | Karui Shores                | Movement Speed and Flask Enchantments|  3  |
 | ATn | Aspirant's Trial Normal     | All Resistances                      |  1  |
-| ATc | Aspirant's Trial Cruel      | | |
+| ATc | Aspirant's Trial Cruel      | Double Resistances                   |  2  |
 | ATm | Aspirant's Trial Merciless  | Double Resistances                   |  3  |
 | ATe | Aspirant's Trial Eternal    | All Reistances                       |  2  |
 
