@@ -8,6 +8,7 @@ Here is a table of all the crafting recipes found in the campaign:
 |----:|:----------------------------|:-------------------------------------|:---:|
 |   1 |                             | n/a                                  | n/a |
 |   2 | The Ancient Pyramid         | Spell Damage                         |  1  |
+|   2 | The Caverns                 | Vaal Skill Damage                    |  1  |
 |   3 | The Catacombs               | Elemental Damage with Attacks        |  1  |
 |   3 | The City of Sarn            | Movement Speed                       |  1  |
 |   3 | The Crematorium             | Defences                             |  1  |
@@ -50,6 +51,10 @@ Here is a table of all the crafting recipes found in the campaign:
 | ATc | Aspirant's Trial Cruel      | | |
 | ATm | Aspirant's Trial Merciless  | Double Resistances                   |  3  |
 | ATe | Aspirant's Trial Eternal    | All Reistances                       |  2  |
+
+**Note:**
+
+The _Vaal Skill Damage_ in Act 2 _The Caverns_ is in a secret area. Look for a room with two half-height broken walls that make an `L` shape and press the two buttons on either side of a petroglyph.
 
 **Legend:**
 
