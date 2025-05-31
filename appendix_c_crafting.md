@@ -35,7 +35,7 @@ Here is a table of all the crafting recipes found in the campaign:
 |   7 | The Chamber of Sins Level 2 | Mana Regen                           |  1  |
 |   7 | The Crypt                   | Damage Over Time                     |  2  |
 |   7 | The Dread Thicket           | Fire Damage                          |  2  |
-|   7 | The Temple of Decay         | Chaos Damage                         |  1  |
+|   7 | The Temple of Decay Level 2 | Chaos Damage                         |  1  |
 |   8 | Doedre's Cesspool           | Elemental Resists                    |  3  |
 |   8 | The Bath House              | Flask Duration                       |  1  |
 |   8 | The Lunaris Temple Level 2  | Minions                              |  1  |
