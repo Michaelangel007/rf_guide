@@ -4,6 +4,8 @@
 
 * [pohx.net](https://pohx.net/) -- THE website for Righteous Fire Guides and Wiki.
 
+* [RF 3.26](https://pobb.in/PVpmRbFdxceP)
+
 * pohx's [RF Help](https://docs.google.com/spreadsheets/d/1X5e5TmIb-bx9ueZ57Jbffh31SAvS9OiK-QeUyCfxEds/edit?gid=0#gid=0)
 
 ## Variations on RF
