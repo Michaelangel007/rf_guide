@@ -136,6 +136,8 @@ Or for HC:
 
 ## 3.1.4 Zone: The Tidal Island, Monster Level 3
 
+Layout: `O`
+
 Zone Objectives:
 
   * Kill unique mob [Hailrake](https://www.poewiki.net/wiki/Hailrake)
