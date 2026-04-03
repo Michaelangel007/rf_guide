@@ -6,8 +6,9 @@ Here is a table of all the crafting recipes found in the campaign:
 
 | Act | Zone                        | Crafting Recipe                      | Rank|
 |----:|:----------------------------|:-------------------------------------|:---:|
-|   1 |                             | n/a                                  | n/a |
+|   1 | n/a                         | n/a                                  | n/a |
 |   2 | The Ancient Pyramid         | Spell Damage                         |  1  |
+|   2 | The Caverns                 | Vaal Skill Damage                    |  1  |
 |   3 | The Catacombs               | Elemental Damage with Attacks        |  1  |
 |   3 | The City of Sarn            | Movement Speed                       |  1  |
 |   3 | The Crematorium             | Defences                             |  1  |
@@ -34,7 +35,7 @@ Here is a table of all the crafting recipes found in the campaign:
 |   7 | The Chamber of Sins Level 2 | Mana Regen                           |  1  |
 |   7 | The Crypt                   | Damage Over Time                     |  2  |
 |   7 | The Dread Thicket           | Fire Damage                          |  2  |
-|   7 | The Temple of Decay         | Chaos Damage                         |  1  |
+|   7 | The Temple of Decay Level 2 | Chaos Damage                         |  1  |
 |   8 | Doedre's Cesspool           | Elemental Resists                    |  3  |
 |   8 | The Bath House              | Flask Duration                       |  1  |
 |   8 | The Lunaris Temple Level 2  | Minions                              |  1  |
@@ -47,9 +48,13 @@ Here is a table of all the crafting recipes found in the campaign:
 |  10 | The Feeding Trough          | Life and Mana                        |  3  |
 | Epi | Karui Shores                | Movement Speed and Flask Enchantments|  3  |
 | ATn | Aspirant's Trial Normal     | All Resistances                      |  1  |
-| ATc | Aspirant's Trial Cruel      | | |
+| ATc | Aspirant's Trial Cruel      | Double Resistances                   |  2  |
 | ATm | Aspirant's Trial Merciless  | Double Resistances                   |  3  |
 | ATe | Aspirant's Trial Eternal    | All Reistances                       |  2  |
+
+**Note:**
+
+The _Vaal Skill Damage_ in Act 2 _The Caverns_ is in a secret area. Look for a room with two half-height broken walls that make an `L` shape and press the two buttons on either side of a petroglyph.
 
 **Legend:**
 

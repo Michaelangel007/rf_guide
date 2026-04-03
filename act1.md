@@ -136,6 +136,8 @@ Or for HC:
 
 ## 3.1.4 Zone: The Tidal Island, Monster Level 3
 
+Layout: `O`
+
 Zone Objectives:
 
   * Kill unique mob [Hailrake](https://www.poewiki.net/wiki/Hailrake)
@@ -160,6 +162,8 @@ Level up:
 
  * Medium Life Flask (Level 3) (preferred) or Quicksilver Flask (Level 4).
  * Blue gem, Arcane Surge Support
+
+**Pro Gamer Tip:** Create a second Marauder complete the quest and pick the _other_ reward then put it in your stash tab to mule (transfer) it to your primary Marauder.
 
 ### 3.1.6 Zone: The Coast, Monster Level 2
 

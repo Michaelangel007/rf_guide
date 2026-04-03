@@ -1,28 +1,25 @@
 # [References](references.md)
 
 ## RF
+=======
+## pohx.net
 
+* [pohx.net](https://pohx.net/) -- THE website for Righteous Fire Guides and Wiki.
+* [RF 3.26](https://pobb.in/PVpmRbFdxceP)
 * pohx's [RF Help](https://docs.google.com/spreadsheets/d/1X5e5TmIb-bx9ueZ57Jbffh31SAvS9OiK-QeUyCfxEds/edit?gid=0#gid=0)
 
-
-Variations on RF
+## Variations on RF
 
 Taking the Build to Level 100
 
 Video guide:
-* [DESTROY Uber Bosses SAFELY | Blood Magic Firestorm Inquisitor Build Guide 3.25]
-(https://www.youtube.com/watch?v=bubw45rOOrk)
+* [DESTROY Uber Bosses SAFELY | Blood Magic Firestorm Inquisitor Build Guide 3.25](https://www.youtube.com/watch?v=bubw45rOOrk)
 
 Text guide:
 * https://publish.obsidian.md/bigducks/Build+Guides/3.25/Inquisitor+-+Firestorm+of+Pelting+-+Blood+Magic+Life+Stack
 * [Templar PoE 3.25 Righteous Fire Build](https://www.rpgstash.com/blog/path-of-exile-best-righteous-fire-inquisitor-build)
-
-
 * [Elder Influenced Helm](https://aggronaut.com/2023/05/05/elder-influenced-helm/)
-
 * [HOWTO Farm Elder Bone Helm SSF](https://www.reddit.com/r/pathofexile/comments/ka6n5e/how_to_farm_an_elder_bone_helmet_lvl_86_in_ssf/)
-
-
 * [Righteous Fire Chieftain Build](https://odealo.com/articles/righteous-fire-chieftain-build)
   * Righteous Fire	Righteous Fire - RF deals Fire Damage over time based on your Maximum Life. Note it has no Duration Tag and deals no Ignite Damage.
   * Increased Area of Effect	Increased Area of Effect Support - Increases Area of Effect.
@@ -36,9 +33,11 @@ Text guide:
 * [Pohx Crafting](https://www.pohx.net/Crafts#Amulet)
 * [3.19 Crafting a +2 Amulet](https://www.youtube.com/watch?v=WNwQrSTK5ew)
 * [Righteous Fire - How to Craft a RF Amulet using Jewellery Recombinators (Budget Friendly)](https://www.youtube.com/watch?v=emiiQ4rZu58)
+* [PoE 3.25 Righteous Fire Build](https://www.rpgstash.com/blog/path-of-exile-best-righteous-fire-inquisitor-build) -- Crafting helm and amulet
 
-[Scarab Pricing Tool](https://docs.google.com/spreadsheets/d/1uRi9lGV-UhQCjWcNhFYwU223KNJ0zVZ4uVl7QHSR_Yw/edit?gid=1774539217#gid=1774539217)
+## Scarabs
 
+* [Scarab Pricing Tool](https://docs.google.com/spreadsheets/d/1uRi9lGV-UhQCjWcNhFYwU223KNJ0zVZ4uVl7QHSR_Yw/edit?gid=1774539217#gid=1774539217)
 
 ## Builds
 
@@ -47,6 +46,12 @@ Text guide:
 ## Leveling
 
 * https://www.poe-vault.com/guides/quick-reference-leveling-guide-act-1
+=======
+# Path of Building
+
+_Path of Building_ is an offline character planner and calculator to help you optimize your build for DPS, tankiness to explore different builds, gems, gear.
+
+* [Path of Building -- Community Edition](https://pathofbuilding.community/)
 
 ---
 

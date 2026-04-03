@@ -1,6 +1,8 @@
 # 3. Campaign Walkthrough
 
-This is a complete Campaign walkthrough zone-by-zone meant for players who have never played PoE before thus it is extremely verbose.  PoE is _heavily_ dependent on knowledge and there is no substitue for experience to give you this. Take your time, explore the zones, learn the game, and you will be rewarded.
+This is a complete Campaign walkthrough zone-by-zone meant for players who have never played PoE before thus it is extremely verbose.  PoE is _heavily_ dependent on (map) knowledge and there is no substitue for experience to give you this. Take your time, explore the zones, learn the game, and you will be rewarded.
+
+/!\ An easy way to learn a zone is to walk along the perimeter.
 
 ## 3.0 Zone Layouts
 
@@ -11,7 +13,7 @@ The following short-hand will be used to indicate zone layouts:
 * `8` Multiple smaller loops
 * `-` Linear
 * `△` Pryamid -- multiple floors with each floor getting smaller and smaller.
-* `Z` Linear but seperated by doors/tunnels. i.e. [Malformation Map]()
+* `Z` Linear but seperated by doors/tunnels. i.e. [Malformation Map](https://www.poewiki.net/wiki/Malformation_Map)
 
 ## 3.0.1 Zone Summary
 
