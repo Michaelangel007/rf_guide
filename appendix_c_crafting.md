@@ -63,28 +63,33 @@ Here is a table of all the crafting recipes found in the campaign:
 
 These maps have the following crafting recipes:
 
-| Map            | Crafting Recipe               |Rank |
-|:---------------|:------------------------------|:---:|
-| Atoll          | Attack and Spell Block        |  1  |
-| Arachnid Tomb  | Socket Numbers                |  5  |
-| Basilica       | Leech                         |  2  |
-| Cells          | Leech                         |  1  |
-| Cemetery       | Criticals                     |  1  |
-| Cold River     | Cold Damage                   |  3  |
-| Crimson Township | Reduced Damage Over Time    | n/a |
-| Dungeon        | Special Defences              |  1  |
-| Estuary        | Mana Regen                    |  2  |
-| Fields         | Traps and Mines               |  2  |
-| Fungal Hollow  | Life and Mana                 |  4  |
-| Graveyard      | Attributes                    |  3  |
-| Haunted Mansion| Attack and Spell Block        |  2  |
-| Lair           | Flask Duration                |  2  |
-| Marshes        | Elemental Damage With Attacks |  2  |
-| Maze           | Criticals                     |  3  |
-| Moon Temple    | Global Energy Shield          |  1  |
-| Pier           | Socket Numbers                |  6  |
-| Port           | Physical Damage               |  4  |
-| Ramparts       | Global Energy Shield          |  2  |
+| Map               | Crafting Recipe               |Rank |
+|:------------------|:------------------------------|:---:|
+| Arachnid Tomb     | Socket Numbers                |  5  |
+| Arcade            | Minions                       |  3  |
+| Atoll             | Attack and Spell Block        |  1  |
+| Basilica          | Leech                         |  2  |
+| Caer Blaidd       | Cannot Roll Attack Mods       | n/a |
+| Cells             | Leech                         |  1  |
+| Cemetery          | Criticals                     |  1  |
+| Cold River        | Cold Damage                   |  3  |
+| Crimson Township  | Reduced Damage Over Time      | n/a |
+| Dungeon           | Special Defences              |  1  |
+| Estuary           | Mana Regen                    |  2  |
+| Fields            | Traps and Mines               |  2  |
+| Fungal Hollow     | Life and Mana                 |  4  |
+| Glacier           | Attack and Cast Speed         |  3  |
+| Graveyard         | Attributes                    |  3  |
+| Haunted Mansion   | Attack and Spell Block        |  2  |
+| Lair              | Flask Duration                |  2  |
+| Marshes           | Elemental Damage With Attacks |  2  |
+| Maze              | Criticals                     |  3  |
+| Moon Temple       | Global Energy Shield          |  1  |
+| Pier              | Socket Numbers                |  6  |
+| Port              | Physical Damage               |  4  |
+| Ramparts          | Global Energy Shield          |  2  |
+| The Coward's Trial| Prefixes Cannot Be Changed    | n/a |
+| Whakawairu Tuahu  | Cannot Roll Caster Mods       | n/a |
 
 ## C.3 Notable RF Crafting Recipes
 
