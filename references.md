@@ -1,5 +1,6 @@
 # [References](references.md)
 
+## RF
 
 * pohx's [RF Help](https://docs.google.com/spreadsheets/d/1X5e5TmIb-bx9ueZ57Jbffh31SAvS9OiK-QeUyCfxEds/edit?gid=0#gid=0)
 
@@ -17,7 +18,6 @@ Text guide:
 * [Templar PoE 3.25 Righteous Fire Build](https://www.rpgstash.com/blog/path-of-exile-best-righteous-fire-inquisitor-build)
 
 
-
 * [Elder Influenced Helm](https://aggronaut.com/2023/05/05/elder-influenced-helm/)
 
 * [HOWTO Farm Elder Bone Helm SSF](https://www.reddit.com/r/pathofexile/comments/ka6n5e/how_to_farm_an_elder_bone_helmet_lvl_86_in_ssf/)
@@ -31,7 +31,8 @@ Text guide:
   * Concentrated Effect	Concentrated Effect Support (Elder's Prefix) - More Area Damage but less Area of Effect.
   * Burning Damage	Burning Damage Support (Elder's Suffix) - More Burning Damage, which is Fire Damage over Time.
 
-Crafting
+## Crafting
+
 * [Pohx Crafting](https://www.pohx.net/Crafts#Amulet)
 * [3.19 Crafting a +2 Amulet](https://www.youtube.com/watch?v=WNwQrSTK5ew)
 * [Righteous Fire - How to Craft a RF Amulet using Jewellery Recombinators (Budget Friendly)](https://www.youtube.com/watch?v=emiiQ4rZu58)
@@ -39,12 +40,13 @@ Crafting
 [Scarab Pricing Tool](https://docs.google.com/spreadsheets/d/1uRi9lGV-UhQCjWcNhFYwU223KNJ0zVZ4uVl7QHSR_Yw/edit?gid=1774539217#gid=1774539217)
 
 
-Builds
+## Builds
 
 * [MAKE IT TANKIER! One Button Hellfire CWS Chieftain Min-Maxing Build Guide | PoE 3.25 Settlers](https://www.youtube.com/watch?v=khoJkFix8lk)
 
+## Leveling
 
-
+* https://www.poe-vault.com/guides/quick-reference-leveling-guide-act-1
 
 ---
 
