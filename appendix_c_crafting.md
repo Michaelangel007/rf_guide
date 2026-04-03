@@ -110,14 +110,14 @@ These crafting recipes are helpful for bench crafting to boost your RF damage:
 
 ## C.4 Sockets and Links
 
-Other notable crafting recipe unlock locations:
+Other notable crafting recipe unlock maps:
 
-| Type| Zone              | Crafting Recipe |Rank |
-|:----|:------------------|:----------------|:---:|
-| Map | Infested Valley   | 5 Linked        | n/a |
-| Map | Lighthouse        | 6 Linked        | n/a |
-| Map | Arachnid Tomb     | 5 Socket        | n/a |
-| Map | Pier              | 6 Socket        | n/a |
+| Tier| Zone              | Crafting Recipe |Rank |
+|----:|:------------------|:----------------|:---:|
+|  8  | [Arachnid Tomb](https://www.poewiki.net/wiki/Arachnid_Tomb_Map)       | 5 Socket        | n/a |
+| 12  | [Infested Valley](https://www.poewiki.net/wiki/Infested_Valley_Map)   | 5 Linked        | n/a |
+| 16  | [Lighthouse](https://www.poewiki.net/wiki/Lighthouse_Map)             | 6 Linked        | n/a |
+| 11  | [Pier](https://www.poewiki.net/wiki/Pier_Map)                         | 6 Socket        | n/a |
 
 Alternatively, if you enjoy [Delve](https://www.poewiki.net/wiki/Delve) you can find the following socket recipes at roughly the following _minimum_ depth:
 
