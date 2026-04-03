@@ -134,7 +134,7 @@ Alternatively, if you enjoy [Delve](https://www.poewiki.net/wiki/Delve) you can 
 **NOTES:**
 
 * The _Abyssal City_ is different from the [Abyssal Depths](https://www.poewiki.net/wiki/Abyssal_Depths_(Delve).
-  * ![Abyssal City - Abyssal Chamber](pics/delve/abyssal_chamber.png]
+  * ![Abyssal City - Abyssal Chamber](pics/delve/abyssal_chamber.png)
 * If you wish to farm the Delve bosses, [Aul, the Crystal King](https://www.poewiki.net/wiki/Aul,_the_Crystal_King) he can only spawn at depth 130+; realistically this will be 250+.
 
 ---
