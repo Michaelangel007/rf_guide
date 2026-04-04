@@ -10,7 +10,7 @@ POB coming soon.
 
 * Level = Skills gems should be leveled up to Level 20 except for _Vitality_ which you probably want to keep around level 10-13.
 * CLev = Minimum Character Level needed to equip the gem.
-* `CDMRSTW` = sCion / Duelist / Marauder / Ranger / Shadow / Templar / Witch = which classes can buy the gem as a vendor reward.
+* `cDMRSTW` = sCion / Duelist / Marauder / Ranger / Shadow / Templar / Witch = which classes can buy the gem as a vendor reward.
 * Quest = Earliest quest needed to be able to buy from Nessa, Clarissa, etc.
 * Cost = All classes can buy gems from Siosa for the specific price.
 
@@ -22,7 +22,7 @@ POB coming soon.
 | B | [Efficacy Support](https://www.poewiki.net/wiki/Efficacy_Support)                        |  8 |`-----TW`|Act 1, The Caged Brute    |Orb of Transmutation|
 | B | [Elemental Focus Support](https://www.poewiki.net/wiki/Elemental_Focus_Support)          | 18 |`-----TW`|Act 2, Sharp and Cruel    |Orb of Alteration   |
 | R | [Burning Damage Support](https://www.poewiki.net/wiki/Burning_Damage_Support)            | 31 |`-----TW`|Act 3, A Fixture of Fate  |Orb of Chance       |
-| R | [Lifetap Support](https://www.poewiki.net/wiki/Lifetap_Support)                          |  8 |`CDM--T-`|Act 1, The Caged Brute    |Orb of Transmutation|
+| R | [Lifetap Support](https://www.poewiki.net/wiki/Lifetap_Support)                          |  8 |`cDM--T-`|Act 1, The Caged Brute    |Orb of Transmutation|
 | G | [Swift Affliction Support](https://www.poewiki.net/wiki/Swift_Affliction_Support)        | 31 |`----S-W`|Act 3, A Fixture of Fate  |Orb of Chance       |
 
 **Gloves:** RGGB
@@ -32,7 +32,7 @@ POB coming soon.
 | G | [Fire Trap](https://www.poewiki.net/wiki/Fire_Trap)                                      | 12 |`c--RS-W`|Act 1, The Siren's Cadence|Orb of Transmutation|
 | G | [Trap and Mine Damage Support](https://www.poewiki.net/wiki/Trap_and_Mine_Damage_Support)| 18 |`       `|Act 2, Sharp and Cruel    |Orb of Alteration   |
 | B | [Combustion Support](https://www.poewiki.net/wiki/Combustion_Support)                    |  8 |`       `|Act 1, The Caged Brute    |Orb of Transmutation|
-| R | [Lifetap Support](https://www.poewiki.net/wiki/Lifetap_Support)                          |  8 |`CDM--T-`|Act 1, The Caged Brute    |Orb of Transmutation|
+| R | [Lifetap Support](https://www.poewiki.net/wiki/Lifetap_Support)                          |  8 |`cDM--T-`|Act 1, The Caged Brute    |Orb of Transmutation|
 
 **Shield:** RRB or RRR
 
