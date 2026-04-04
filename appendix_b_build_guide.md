@@ -62,11 +62,12 @@ Alternative:
 
 ### Armor Bases
 
-* [Saintly Chainmail](https://www.poewiki.net/wiki/Saintly_Chainmail)
+* [Saintly Chainmail](https://www.poewiki.net/wiki/Saintly_Chainmail), CLev 70, Armor + Energy Shield
+* [Cloak of Flame, Scholar's Robe](https://www.poewiki.net/wiki/Cloak_of_Flame), CLev 18, Energy Shield
 
 ### Helmet Bases
 
-* [Ezomyte Burgonet](https://www.poewiki.net/wiki/Ezomyte_Burgonet)
+* [Ezomyte Burgonet](https://www.poewiki.net/wiki/Ezomyte_Burgonet), CLev 60, Armor
 
 ### Glove Bases
 
