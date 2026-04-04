@@ -76,7 +76,7 @@ Alternative:
 ### Glove Bases
 
 * [Precursor Gauntlets](https://www.poewiki.net/wiki/Precursor_Gauntlets), CLev 78, Armor, Str: 125
-* [Titan Gauntlets](https://www.poewiki.net/wiki/Titan_Gauntlets), CLev 69, ARmor, Str: 98
+* [Titan Gauntlets](https://www.poewiki.net/wiki/Titan_Gauntlets), CLev 69, Armor, Str: 98
 
 ---
 
