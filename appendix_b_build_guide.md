@@ -4,9 +4,11 @@ POB coming soon.
 
 **Notes:**
 
+* Level = Skills gems should be leveled up to Level 20 except for _Vitality_ which you probably want to keep around level 10-13.
 * CLev = Minimum Character Level needed to equip the gem.
-* CDMRSTW = sCion / Duelist / Marauder / Ranger / Shadow / Templar / Witch which classes can buy the gem as a vendor reward.
+* `CDMRSTW` = sCion / Duelist / Marauder / Ranger / Shadow / Templar / Witch = which classes can buy the gem as a vendor reward.
 * Quest = Earliest quest needed to be able to buy from Nessa, Clarissa, etc.
+* Cost = All classes can buy gems from Siosa for the specific price.
 
 **Armor:** RRGBBB
 
