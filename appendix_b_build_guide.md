@@ -78,6 +78,46 @@ Alternative:
 * [Precursor Gauntlets](https://www.poewiki.net/wiki/Precursor_Gauntlets), CLev 78, Armor, Str: 125
 * [Titan Gauntlets](https://www.poewiki.net/wiki/Titan_Gauntlets), CLev 69, Armor, Str: 98
 
+## Annointing
+
+Don't forget to Annoint your amulet!
+
+In SC (soft-core) you probably just want to push through the campaign.
+
+In HC (hardcore) or SSF (solo self found) you may want to farm Act 3, The Sewers, [Blight Encounters](https://www.poewiki.net/wiki/Blight_\(game_content\)). At the Waypoint `Ctrl`-`Left Click` on _The Sewers_ to create a `New` instance. Then from the Waypoint go Right (usually South-East or North-East) to find Sister Cassia and the Ichor Pump to start the Blight Encounter. Not just any _Blight Cyst_ chest will drop the oils after the encounter ends -- you need a specific Blight icon type for oils.
+
+It looks like this:
+
+* ![Blight Cyst Oils](https://www.poewiki.net/wiki/Blight_\(game_content\)#/media/File:Blight_Cyst_oils.png)
+
+You will be limited to "starter" oils: Clear, Sepia, and Amber so you can craft Verdant. A decent Annoints is _Robust_ until you get the more useful Black Oil later after the campaign which unfortunately is FAR too tedious to grind (crafting requires 3^9 = 19,683 Clear Oils!) in Act 3.
+
+At end game _Combat Stamina_ is a great annoint.
+
+| Passive Skill                                                         | Oil #1 | Oil #2  | Oil #3 |
+|:----------------------------------------------------------------------|:------:|:-------:|:------:|
+| [Combat Stamina](https://www.poewiki.net/wiki/Combat_Stamina)         | Clear  | Verdant | Black  |
+| [Sanctuary](https://www.poewiki.net/wiki/Sanctuary_\(passive_skill\)) | Amber  | Teal    | Teal   |
+| [Testudo](https://www.poewiki.net/wiki/Testudo)                       | Clear  | Sepia   | Black  |
+| [Robust](https://www.poewiki.net/wiki/Robust)                         | Clear  | Verdant | Teal   |
+
+### Oil Upgrades
+
+| Cost         | Result |
+|:-------------|:------:|
+| 3x Clear     | [Sepia](https://www.poewiki.net/wiki/Sepia_Oil)           |
+| 3x Sepia     | [Amber](https://www.poewiki.net/wiki/Amber_Oil)           |
+| 3x Amber     | [Verdant](https://www.poewiki.net/wiki/Verdant_Oil)       |
+| 3x Verdant   | [Teal](https://www.poewiki.net/wiki/Teal_Oil)             |
+| 3x Teal      | [Azure](https://www.poewiki.net/wiki/Azure_Oil)           |
+| 3x Azure     | [Indigo](https://www.poewiki.net/wiki/Indigo_Oil)         |
+| 3x Indigo    | [Violet](https://www.poewiki.net/wiki/Violet_Oil)         |
+| 3x Violet    | [Crimson](https://www.poewiki.net/wiki/Crimson_Oil)       |
+| 3x Crimson   | [Black](https://www.poewiki.net/wiki/Black_Oil)           |
+| 3x Black     | [Opalescent](https://www.poewiki.net/wiki/Opalescent_Oil) |
+| 3x Opalescent| [Silver](https://www.poewiki.net/wiki/Silver_Oil)         |
+| 3x Silver    | [Golden](https://www.poewiki.net/wiki/Golden_Oil)         |
+
 ---
 
 Prev: [Appendix A. Atlas Tree](appendix_a_atlas.md)
