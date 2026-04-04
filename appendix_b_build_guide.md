@@ -88,7 +88,7 @@ In HC (hardcore) or SSF (solo self found) you may want to farm Act 3, The Sewers
 
 It looks like this:
 
-* ![Blight Cyst Oils](https://www.poewiki.net/wiki/Blight_\(game_content\)#/media/File:Blight_Cyst_oils.png)
+* ![Blight Cyst Oils](pics/blight/Blight_Cyst_oils.png)
 
 You will be limited to "starter" oils: Clear, Sepia, and Amber so you can craft Verdant. A decent Annoints is _Robust_ until you get the more useful Black Oil later after the campaign which unfortunately is FAR too tedious to grind (crafting requires 3^9 = 19,683 Clear Oils!) in Act 3.
 
