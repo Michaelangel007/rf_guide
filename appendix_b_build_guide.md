@@ -90,7 +90,7 @@ It looks like this:
 
 * ![Blight Cyst Oils](pics/blight/Blight_Cyst_oils.png)
 
-You will be limited to "starter" oils: Clear, Sepia, and Amber so you can craft Verdant. A decent Annoints is _Robust_ until you get the more useful Black Oil later after the campaign which unfortunately is FAR too tedious to grind (crafting requires 3^9 = 19,683 Clear Oils!) in Act 3.
+You will be limited to "starter" oils: Clear, Sepia, and Amber so you can craft Verdant and Teal. A decent Annoint is _Robust_ until you get the more useful Black Oil after the campaign which unfortunately is FAR too tedious to grind (crafting requires 3^9 = 19,683 Clear Oils!) in Act 3.
 
 At end game _Combat Stamina_ is a great annoint.
 
