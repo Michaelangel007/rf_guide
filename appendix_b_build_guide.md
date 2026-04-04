@@ -118,6 +118,8 @@ At end game _Combat Stamina_ is a great annoint.
 | 3x Opalescent| [Silver](https://www.poewiki.net/wiki/Silver_Oil)         |
 | 3x Silver    | [Golden](https://www.poewiki.net/wiki/Golden_Oil)         |
 
+You _probably_ want to pick up a Blight Sash Tab form the `Shop`. Wait for the 2nd or 3rd week _after_ a new league launches when they are on sale!
+
 ---
 
 Prev: [Appendix A. Atlas Tree](appendix_a_atlas.md)
