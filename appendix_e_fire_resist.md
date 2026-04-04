@@ -35,10 +35,10 @@ Q. How do we increase our maximum Fire Resistance _with_ gear?
 
 Q. **How do we increase all our Elemental Resistances to 90%?**
 
-  * If you are playing a Marauder, specically a [Chieftain](https://www.pathofexile.com/ascendancy/classes/Chieftain):
+  * If you are playing a Marauder, specifically a [Chieftain](https://www.pathofexile.com/ascendancy/classes/Chieftain):
 
     1. Increase your maximum fire resistance to 90%,
-    2. _Valako, Storm Embrace_ provides:
+    2. The Ascendancy passive skill [Valako, Storm's Embrace](https://www.poewiki.net/wiki/Valako,_Storm%27s_Embrace) provides:
 
 > _Modifiers to Maximum Fire Resistance also apply to Maximum Cold and Lightning Resistances._
 
