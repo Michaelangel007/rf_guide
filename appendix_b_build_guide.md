@@ -5,7 +5,7 @@ POB coming soon.
 **Notes:**
 
 * CLev = Minimum Character Level needed to equip the gem.
-* SDMRSTW = sCion / Duelist / Marauder / Ranger / Shadow / Templar / Witch which classes can buy the gem as a vendor reward.
+* CDMRSTW = sCion / Duelist / Marauder / Ranger / Shadow / Templar / Witch which classes can buy the gem as a vendor reward.
 * Quest = Earliest quest needed to be able to buy from Nessa, Clarissa, etc.
 
 **Armor:** RRGBBB
