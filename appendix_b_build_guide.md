@@ -82,7 +82,7 @@ Alternative:
 
 Don't forget to Annoint your amulet!
 
-In SC (soft-core) you probably just want to push through the campaign.
+In SC (soft-core) you probably just want to push through the campaign and then get oils in T1+ maps.
 
 In HC (hardcore) or SSF (solo self found) you may want to farm Act 3, The Sewers, [Blight Encounters](https://www.poewiki.net/wiki/Blight_\(game_content\)). At the Waypoint `Ctrl`-`Left Click` on _The Sewers_ to create a `New` instance. Then from the Waypoint go Right (usually South-East or North-East) to find Sister Cassia and the Ichor Pump to start the Blight Encounter. Not just any _Blight Cyst_ chest will drop the oils after the encounter ends -- you need a specific Blight chest icon type for oils.
 
