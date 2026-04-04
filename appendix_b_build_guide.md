@@ -1,6 +1,10 @@
 # Appendix B. Build Guide
 
+## POB
+
 POB coming soon.
+
+## Skills
 
 **Notes:**
 
