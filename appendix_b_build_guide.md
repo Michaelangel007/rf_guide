@@ -43,7 +43,7 @@ POB coming soon.
 
 |Color| Skill Gem                                                                              |CLev|Class    | Quest                    |Cost (Siosa)        |
 |:---:|:---------------------------------------------------------------------------------------|---:|:--------|:-------------------------|:-------------------|
-| R | [Arrogance Support](https://www.poewiki.net/wiki/Arrogance_Support)                      | 31 |`cDM--T-`|Act 3, A Fixture of Fate  |?                   |
+| R | [Arrogance Support](https://www.poewiki.net/wiki/Arrogance_Support)                      | 31 |`cDM--T-`|Act 3, A Fixture of Fate  |Orb of Chance       |
 | R | [Vitality](https://www.poewiki.net/wiki/Vitality)                                        | 10 |`cDMRSTW`|Act 1, The Caged Brute    |Orb of Transmutation|
 | B | [Flammability](https://www.poewiki.net/wiki/Flammability)                                | 24 |`c-M-STW`|Act 3, Lost in Love       |Orb of Alteration   |
 
@@ -53,8 +53,8 @@ Alternative:
 |:---:|:---------------------------------------------------------------------------------------|---:|:--------|:-------------------------|:-------------------|
 | B | [Purity of Elements](https://www.poewiki.net/wiki/Purity_of_Elements)                    | 24 |`cDMRSTW`|Act 3, Lost in Love       |Orb of Alteration   |
 | R | [Purity of Fire](https://www.poewiki.net/wiki/Purity_of_Fire)                            | 24 |`cDM--T-`|Act 3, Lost in Love       |Orb of Alteration   |
-| B | [Malevolence](https://www.poewiki.net/wiki/Malevolence)                                  | 24 |`c---STW`|Act 3, Lost in Love       |?                   |
-| R | [Determination](https://www.poewiki.net/wiki/Determination)                              | 24 |`-DM--T-`|Act 3, Lost in Love       |?                   |
+| B | [Malevolence](https://www.poewiki.net/wiki/Malevolence)                                  | 24 |`c---STW`|Act 3, Lost in Love       |Orb of Alteration   |
+| R | [Determination](https://www.poewiki.net/wiki/Determination)                              | 24 |`-DM--T-`|Act 3, Lost in Love       |Orb of Alteration   |
 
 ## Bases
 
