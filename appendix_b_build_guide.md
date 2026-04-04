@@ -38,8 +38,8 @@ POB coming soon.
 | R | [Purity of Fire](https://www.poewiki.net/wiki/Purity_of_Fire)                            | 24 |`cDM--T-`|Act 3, Lost in Love       |Orb of Alteration   |
 | R | [Flesh and Stone](https://www.poewiki.net/wiki/Flesh_and_Stone)                          | 16 |`cDM----`|Act 2, Intruders in Black |Orb of Alteration   |
 
-* R Lifetap Support
-* R [Punishment](), CLev 24, Siosa: Orb of Alteration
+* R [Lifetap Support](https://www.poewiki.net/wiki/Lifetap_Support), Clev 8, Siosa: Orb of Transmutation
+* R [Punishment](https://www.poewiki.net/wiki/Punishment), CLev 24, Siosa: Orb of Alteration
 
 **Helmet:** RRB, Auras
 
