@@ -18,6 +18,8 @@ The 3 step plan:
 
 ### Pros
 
+* EASY leveling for Maruader, Templar, Witch, Duelist, Scion
+* Great &gt; **League Starter** &lt;
 * Only need to press 1 button at the start of every zone
 * Tank all bosses in the campaign
 * Perfect for learning Hardcore
@@ -30,6 +32,7 @@ The 3 step plan:
 
 * Movement speed and Damage may be too slow and low respectively for those that prefer a Zoom Zoom play style
 * End-game damage falls off hard and needs considerable investment
+* Ranger and Shadow will waste value skill points in the Skill Tree navigating to essential nodes
 
 ---
 
