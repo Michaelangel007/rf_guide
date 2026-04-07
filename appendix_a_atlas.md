@@ -1,8 +1,10 @@
 # Appendix A. Atlas Skill Tree
 
-Once you have completed the campaign you unlock end-game content: **Maps.**  On PC the hotkey is `G`.
+Once you have completed the Campaign and Epilogue you unlock end-game content: **Maps.**  On PC the hotkey is `G`.
 
-As you complete maps you earn **Atlas Skill Tree points.**  On PC the hotkey is `Ctrl`-`G`.
+As you complete maps (killing the boss on a map that is magic, rare, or unique difficulty) you earn **Atlas Skill Tree points.**  On PC the hotkey is `Ctrl`-`G`.
+
+Poe Vaul has up-to-date [Atlas Tree Strategies](https://www.poe-vault.com/guides/atlas-passive-skill-tree-strategies)
 
 Your [first atlas skill tree](https://poeplanner.com/atlas-tree/BAASACkAH8qH1F8-QL-n4iFgtWY4iH1ajerZWxe6HX23XX2ROJ3e_p87Tdee2AKuKY1Fl0U6s8fhELxJtXdzmaLQxB-u75GJYMgYiwtxqUPjP41kb7WZuRQAH4sIAAAAAAAAAwMAAAAAAAAAAAA=) should be focused on unlocking [Kirac Missions](https://www.poewiki.net/wiki/Commander_Kirac) so you can sustain maps. That is, when you run a map there will be a higher chance for mobs to drop a map.  This way you don't have to buy maps from other players.
 
@@ -64,8 +66,14 @@ Sirgog has a good video:
 
 * [POE 3.25 Atlas + Build = Currency. 26 Paths To Get Rich In Settlers of Kalguur Path Of Exile](https://www.youtube.com/watch?v=4m7_uyZy3yc&t=250s)
 
-* **On Atlas:** Additional map content: Blight
+* **On Atlas:** Additional map content: Blight (\*)
 * **Off Atlas:** Delve, Heist, Lab, and Pinnacle Bosses.
+
+(\*) **Note:** RF is NOT good at running Blight maps due to low damage scaling BUT you easily run it on low tier maps to get some oils.
+
+* [Endgame Blight + Searching Exarch](https://poe-atlas.com/endgame-blight-map-farming/)
+* [Eldritch](https://poe-atlas.com/best-endgame-atlas/)
+  * [Eldritch Passive Tree](https://www.pathofexile.com/fullscreen-atlas-skill-tree/AAAABgAAfwAfCqoM8w7TD7cRiRILFFcXyxtOH2YfxCjQKSIqwC2TLosySzXqOPI51TufPRc-X0OpRHNKDkwhUJZRglTxWTxafVrOW9lb8123XipgIWK5YtVjtWa1aFJp1Wvobf1w0nELcaBz-HUndfZ2Onjqegh7p30TfwCAEIB4gPCBWoZZiWiJz4sYjSmP1JEAkX2UGZckl7Gb2J1enYefsaGGo4mkNqUkpa6ngqwarVyu56-ar8G0hrV9tf251LvrvKjCeMWyxf7GM8bQx7POkdBK0KLSdNSH2efaveKn4zfjcOWP5yjnlui66o3s5e-u9Uz35Pqy-8785P3J_on-3v-4AAA=)
 
 ---
 
