@@ -8,6 +8,11 @@
 * [RF 3.26](https://pobb.in/PVpmRbFdxceP)
 * pohx's [RF Help](https://docs.google.com/spreadsheets/d/1X5e5TmIb-bx9ueZ57Jbffh31SAvS9OiK-QeUyCfxEds/edit?gid=0#gid=0)
 
+## Witch
+
+* ds_lily's [FAST Leveling Build Guide - Righteous Fire Elementalist - PoE 3.27
+](https://www.youtube.com/watch?v=-iKQXXD1fi4)
+
 ## Variations on RF
 
 Taking the Build to Level 100
